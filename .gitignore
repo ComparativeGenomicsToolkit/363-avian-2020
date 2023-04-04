@@ -1,0 +1,17 @@
+*.2bit
+*.bak
+*.bb
+*.bed
+*.bigMaf
+*.bigWig
+*.bw
+*.gz
+*.header
+*.sizes
+*.wig
+*.bigGenePred
+*.bigBed
+*.keySignature.txt
+*.idKeys.txt
+*.chromAlias.as
+*.chromAlias.txt

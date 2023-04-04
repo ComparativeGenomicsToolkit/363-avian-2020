@@ -1,0 +1,4005 @@
+
+track b10kgenes
+shortLabel Bird 10K genes
+longLabel Bird 10K gene annotation
+priority 2
+visibility full
+type bigGenePred
+bigDataUrl Pardalotus_punctatus.genes.bb
+group B10K
+html ../documentation/b10kGenes
+
+
+track snakes
+compositeTrack on
+shortLabel HAL snakes
+longLabel HAL snakes
+priority 100
+allButtonPair off
+subGroup1 orgs Species Podiceps_cristatus=Podiceps_cristatus Podilymbus_podiceps=Podilymbus_podiceps Phoenicopterus_ruber=Phoenicopterus_ruber Mesitornis_unicolor=Mesitornis_unicolor Syrrhaptes_paradoxus=Syrrhaptes_paradoxus Pterocles_gutturalis=Pterocles_gutturalis Pterocles_burchelli=Pterocles_burchelli Columbina_picui=Columbina_picui Patagioenas_fasciata=Patagioenas_fasciata Columba_livia=Columba_livia Alopecoenas_beccarii=Alopecoenas_beccarii Caloenas_nicobarica=Caloenas_nicobarica Steatornis_caripensis=Steatornis_caripensis Nyctibius_grandis=Nyctibius_grandis Nyctibius_bracteatus=Nyctibius_bracteatus Podargus_strigoides=Podargus_strigoides Aegotheles_bennettii=Aegotheles_bennettii Chaetura_pelagica=Chaetura_pelagica Hemiprocne_comata=Hemiprocne_comata Oreotrochilus_melanogaster=Oreotrochilus_melanogaster Calypte_anna=Calypte_anna Chordeiles_acutipennis=Chordeiles_acutipennis Antrostomus_carolinensis=Antrostomus_carolinensis Nyctiprogne_leucopyga=Nyctiprogne_leucopyga Tauraco_erythrolophus=Tauraco_erythrolophus Corythaixoides_concolor=Corythaixoides_concolor Corythaeola_cristata=Corythaeola_cristata Lophotis_ruficrista=Lophotis_ruficrista Chlamydotis_macqueenii=Chlamydotis_macqueenii Ardeotis_kori=Ardeotis_kori Crotophaga_sulcirostris=Crotophaga_sulcirostris Geococcyx_californianus=Geococcyx_californianus Centropus_bengalensis=Centropus_bengalensis Centropus_unirufus=Centropus_unirufus Ceuthmochares_aereus=Ceuthmochares_aereus Piaya_cayana=Piaya_cayana Cuculus_canorus=Cuculus_canorus Leptosomus_discolor=Leptosomus_discolor Rhinopomastus_cyanomelas=Rhinopomastus_cyanomelas Upupa_epops=Upupa_epops Buceros_rhinoceros=Buceros_rhinoceros Bucorvus_abyssinicus=Bucorvus_abyssinicus Merops_nubicus=Merops_nubicus Eurystomus_gularis=Eurystomus_gularis Brachypteracias_leptosomus=Brachypteracias_leptosomus Todus_mexicanus=Todus_mexicanus Ceyx_cyanopectus=Ceyx_cyanopectus Chloroceryle_aenea=Chloroceryle_aenea Halcyon_senegalensis=Halcyon_senegalensis Baryphthengus_martii=Baryphthengus_martii Bucco_capensis=Bucco_capensis Galbula_dea=Galbula_dea Picoides_pubescens=Picoides_pubescens Indicator_maculatus=Indicator_maculatus Psilopogon_haemacephalus=Psilopogon_haemacephalus Eubucco_bourcierii=Eubucco_bourcierii Ramphastos_sulfuratus=Ramphastos_sulfuratus Semnornis_frantzii=Semnornis_frantzii Tricholaema_leucomelas=Tricholaema_leucomelas Trogon_melanurus=Trogon_melanurus Apaloderma_vittatum=Apaloderma_vittatum Urocolius_indicus=Urocolius_indicus Colius_striatus=Colius_striatus Tyto_alba=Tyto_alba Strix_occidentalis=Strix_occidentalis Ciccaba_nigrolineata=Ciccaba_nigrolineata Glaucidium_brasilianum=Glaucidium_brasilianum Cathartes_aura=Cathartes_aura Sagittarius_serpentarius=Sagittarius_serpentarius Pandion_haliaetus=Pandion_haliaetus Circaetus_pectoralis=Circaetus_pectoralis Haliaeetus_albicilla=Haliaeetus_albicilla Haliaeetus_leucocephalus=Haliaeetus_leucocephalus Spizaetus_tyrannus=Spizaetus_tyrannus Aquila_chrysaetos=Aquila_chrysaetos Cariama_cristata=Cariama_cristata Chunga_burmeisteri=Chunga_burmeisteri Nestor_notabilis=Nestor_notabilis Melopsittacus_undulatus=Melopsittacus_undulatus Agapornis_roseicollis=Agapornis_roseicollis Amazona_guildingii=Amazona_guildingii Probosciger_aterrimus=Probosciger_aterrimus Eolophus_roseicapillus=Eolophus_roseicapillus Acanthisitta_chloris=Acanthisitta_chloris Atrichornis_clamosus=Atrichornis_clamosus Menura_novaehollandiae=Menura_novaehollandiae Ptilonorhynchus_violaceus=Ptilonorhynchus_violaceus Climacteris_rufus=Climacteris_rufus Malurus_elegans=Malurus_elegans Dasyornis_broadbenti=Dasyornis_broadbenti Origma_solitaria=Origma_solitaria Grantiella_picta=Grantiella_picta Pomatostomus_ruficeps=Pomatostomus_ruficeps Orthonyx_spaldingii=Orthonyx_spaldingii Ptilorrhoa_leucosticta=Ptilorrhoa_leucosticta Mohoua_ochrocephala=Mohoua_ochrocephala Daphoenositta_chrysoptera=Daphoenositta_chrysoptera Eulacestoma_nigropectus=Eulacestoma_nigropectus Oreocharis_arfaki=Oreocharis_arfaki Pteruthius_melanotis=Pteruthius_melanotis Vireo_altiloquus=Vireo_altiloquus Erpornis_zantholeuca=Erpornis_zantholeuca Oriolus_oriolus=Oriolus_oriolus Pachycephala_philippinensis=Pachycephala_philippinensis Falcunculus_frontatus=Falcunculus_frontatus Aleadryas_rufinucha=Aleadryas_rufinucha Chaetorhynchus_papuensis=Chaetorhynchus_papuensis Rhipidura_dahli=Rhipidura_dahli Dicrurus_megarhynchus=Dicrurus_megarhynchus Struthidea_cinerea=Struthidea_cinerea Aphelocoma_coerulescens=Aphelocoma_coerulescens Corvus_moneduloides=Corvus_moneduloides Corvus_brachyrhynchos=Corvus_brachyrhynchos Corvus_cornix=Corvus_cornix Lanius_ludovicianus=Lanius_ludovicianus Ifrita_kowaldi=Ifrita_kowaldi Paradisaea_raggiana=Paradisaea_raggiana Myiagra_hebetior=Myiagra_hebetior Machaerirhynchus_nigripectus=Machaerirhynchus_nigripectus Rhagologus_leucostigma=Rhagologus_leucostigma Dryoscopus_gambensis=Dryoscopus_gambensis Dyaphorophyia_castanea=Dyaphorophyia_castanea Mystacornis_crossleyi=Mystacornis_crossleyi Gymnorhina_tibicen=Gymnorhina_tibicen Edolisoma_coerulescens=Edolisoma_coerulescens Cnemophilus_loriae=Cnemophilus_loriae Notiomystis_cincta=Notiomystis_cincta Callaeas_wilsoni=Callaeas_wilsoni Anthoscopus_minutus=Anthoscopus_minutus Poecile_atricapillus=Poecile_atricapillus Pseudopodoces_humilis=Pseudopodoces_humilis Parus_major=Parus_major Panurus_biarmicus=Panurus_biarmicus Alaudala_cheleensis=Alaudala_cheleensis Sylvietta_virens=Sylvietta_virens Cisticola_juncidis=Cisticola_juncidis Hippolais_icterina=Hippolais_icterina Acrocephalus_arundinaceus=Acrocephalus_arundinaceus Oxylabes_madagascariensis=Oxylabes_madagascariensis Donacobius_atricapilla=Donacobius_atricapilla Locustella_ochotensis=Locustella_ochotensis Hirundo_rustica=Hirundo_rustica Phylloscopus_trochilus=Phylloscopus_trochilus Rhadina_sibilatrix=Rhadina_sibilatrix Hylia_prasina=Hylia_prasina Aegithalos_caudatus=Aegithalos_caudatus Cettia_cetti=Cettia_cetti Horornis_vulcanius=Horornis_vulcanius Erythrocercus_mccallii=Erythrocercus_mccallii Sinosuthora_webbiana=Sinosuthora_webbiana Sylvia_borin=Sylvia_borin Sylvia_atricapilla=Sylvia_atricapilla Pomatorhinus_ruficollis=Pomatorhinus_ruficollis Illadopsis_cleaveri=Illadopsis_cleaveri Leiothrix_lutea=Leiothrix_lutea Zosterops_hypoxanthus=Zosterops_hypoxanthus Zosterops_lateralis=Zosterops_lateralis Sterrhoptilus_dennistouni=Sterrhoptilus_dennistouni Pycnonotus_jocosus=Pycnonotus_jocosus Brachypodius_atriceps=Brachypodius_atriceps Nicator_chloris=Nicator_chloris Tichodroma_muraria=Tichodroma_muraria Thryothorus_ludovicianus=Thryothorus_ludovicianus Polioptila_caerulea=Polioptila_caerulea Certhia_familiaris=Certhia_familiaris Certhia_brachydactyla=Certhia_brachydactyla Sitta_europaea=Sitta_europaea Elachura_formosa=Elachura_formosa Cinclus_mexicanus=Cinclus_mexicanus Buphagus_erythrorhynchus=Buphagus_erythrorhynchus Toxostoma_redivivum=Toxostoma_redivivum Leucopsar_rothschildi=Leucopsar_rothschildi Sturnus_vulgaris=Sturnus_vulgaris Rhabdornis_inornatus=Rhabdornis_inornatus Catharus_fuscescens=Catharus_fuscescens Ficedula_albicollis=Ficedula_albicollis Saxicola_maurus=Saxicola_maurus Oenanthe_oenanthe=Oenanthe_oenanthe Erithacus_rubecula=Erithacus_rubecula Copsychus_sechellarum=Copsychus_sechellarum Cercotrichas_coryphaeus=Cercotrichas_coryphaeus Regulus_satrapa=Regulus_satrapa Phainopepla_nitens=Phainopepla_nitens Bombycilla_garrulus=Bombycilla_garrulus Promerops_cafer=Promerops_cafer Dicaeum_eximium=Dicaeum_eximium Leptocoma_aspasia=Leptocoma_aspasia Chloropsis_cyanopogon=Chloropsis_cyanopogon Chloropsis_hardwickii=Chloropsis_hardwickii Peucedramus_taeniatus=Peucedramus_taeniatus Urocynchramus_pylzowi=Urocynchramus_pylzowi Ploceus_nigricollis=Ploceus_nigricollis Vidua_chalybeata=Vidua_chalybeata Vidua_macroura=Vidua_macroura Lonchura_striata=Lonchura_striata Taeniopygia_guttata=Taeniopygia_guttata Prunella_fulvescens=Prunella_fulvescens Prunella_himalayana=Prunella_himalayana Passer_domesticus=Passer_domesticus Hypocryptadius_cinnamomeus=Hypocryptadius_cinnamomeus Motacilla_alba=Motacilla_alba Hemignathus_wilsoni=Hemignathus_wilsoni Chlorodrepanis_virens=Chlorodrepanis_virens Serinus_canaria=Serinus_canaria Loxia_curvirostra=Loxia_curvirostra Loxia_leucoptera=Loxia_leucoptera Rhodinocichla_rosea=Rhodinocichla_rosea Calcarius_ornatus=Calcarius_ornatus Emberiza_fucata=Emberiza_fucata Nesospiza_acunhae=Nesospiza_acunhae Geospiza_fortis=Geospiza_fortis Sporophila_hypoxantha=Sporophila_hypoxantha Pheucticus_melanocephalus=Pheucticus_melanocephalus Cardinalis_cardinalis=Cardinalis_cardinalis Passerina_amoena=Passerina_amoena Quiscalus_mexicanus=Quiscalus_mexicanus Molothrus_ater=Molothrus_ater Agelaius_phoeniceus=Agelaius_phoeniceus Setophaga_coronata=Setophaga_coronata Setophaga_kirtlandii=Setophaga_kirtlandii Zonotrichia_albicollis=Zonotrichia_albicollis Junco_hyemalis=Junco_hyemalis Melospiza_melodia=Melospiza_melodia Spizella_passerina=Spizella_passerina Irena_cyanogastra=Irena_cyanogastra Picathartes_gymnocephalus=Picathartes_gymnocephalus Chaetops_frenatus=Chaetops_frenatus Drymodes_brunneopygia=Drymodes_brunneopygia Melanocharis_versteri=Melanocharis_versteri Cephalopterus_ornatus=Cephalopterus_ornatus Pachyramphus_minor=Pachyramphus_minor Onychorhynchus_coronatus=Onychorhynchus_coronatus Oxyruncus_cristatus=Oxyruncus_cristatus Piprites_chloris=Piprites_chloris Neopipo_cinnamomea=Neopipo_cinnamomea Tachuris_rubrigastra=Tachuris_rubrigastra Tyrannus_savana=Tyrannus_savana Mionectes_macconnelli=Mionectes_macconnelli Lepidothrix_coronata=Lepidothrix_coronata Manacus_manacus=Manacus_manacus Rhegmatorhina_hoffmannsi=Rhegmatorhina_hoffmannsi Sakesphorus_luctuosus=Sakesphorus_luctuosus Grallaria_varia=Grallaria_varia Scytalopus_superciliaris=Scytalopus_superciliaris Formicarius_rufipectus=Formicarius_rufipectus Sclerurus_mexicanus=Sclerurus_mexicanus Furnarius_figulus=Furnarius_figulus Campylorhamphus_procurvoides=Campylorhamphus_procurvoides Xiphorhynchus_elegans=Xiphorhynchus_elegans Serilophus_lunatus=Serilophus_lunatus Neodrepanis_coruscans=Neodrepanis_coruscans Pitta_sordida=Pitta_sordida Sapayoa_aenigma=Sapayoa_aenigma Calyptomena_viridis=Calyptomena_viridis Smithornis_capensis=Smithornis_capensis Herpetotheres_cachinnans=Herpetotheres_cachinnans Falco_cherrug=Falco_cherrug Falco_peregrinus=Falco_peregrinus Fregata_magnificens=Fregata_magnificens Sula_dactylatra=Sula_dactylatra Anhinga_rufa=Anhinga_rufa Anhinga_anhinga=Anhinga_anhinga Phalacrocorax_pelagicus=Phalacrocorax_pelagicus Phalacrocorax_carbo=Phalacrocorax_carbo Phalacrocorax_harrisi=Phalacrocorax_harrisi Phalacrocorax_auritus=Phalacrocorax_auritus Phalacrocorax_brasilianus=Phalacrocorax_brasilianus Egretta_garzetta=Egretta_garzetta Cochlearius_cochlearius=Cochlearius_cochlearius Scopus_umbretta=Scopus_umbretta Pelecanus_crispus=Pelecanus_crispus Balaeniceps_rex=Balaeniceps_rex Nipponia_nippon=Nipponia_nippon Mesembrinibis_cayennensis=Mesembrinibis_cayennensis Ciconia_maguari=Ciconia_maguari Aptenodytes_forsteri=Aptenodytes_forsteri Pygoscelis_adeliae=Pygoscelis_adeliae Thalassarche_chlororhynchos=Thalassarche_chlororhynchos Oceanites_oceanicus=Oceanites_oceanicus Fregetta_grallaria=Fregetta_grallaria Fulmarus_glacialis=Fulmarus_glacialis Pelecanoides_urinatrix=Pelecanoides_urinatrix Calonectris_borealis=Calonectris_borealis Hydrobates_tethys=Hydrobates_tethys Gavia_stellata=Gavia_stellata Phaethon_lepturus=Phaethon_lepturus Eurypyga_helias=Eurypyga_helias Rhynochetos_jubatus=Rhynochetos_jubatus Opisthocomus_hoazin=Opisthocomus_hoazin Charadrius_vociferus=Charadrius_vociferus Charadrius_alexandrinus=Charadrius_alexandrinus Ibidorhyncha_struthersii=Ibidorhyncha_struthersii Himantopus_himantopus=Himantopus_himantopus Burhinus_bistriatus=Burhinus_bistriatus Pluvianellus_socialis=Pluvianellus_socialis Chionis_minor=Chionis_minor Pedionomus_torquatus=Pedionomus_torquatus Thinocorus_orbignyianus=Thinocorus_orbignyianus Jacana_jacana=Jacana_jacana Nycticryphes_semicollaris=Nycticryphes_semicollaris Rostratula_benghalensis=Rostratula_benghalensis Limosa_lapponica=Limosa_lapponica Calidris_pugnax=Calidris_pugnax Arenaria_interpres=Arenaria_interpres Turnix_velox=Turnix_velox Dromas_ardeola=Dromas_ardeola Rhinoptilus_africanus=Rhinoptilus_africanus Glareola_pratincola=Glareola_pratincola Rynchops_niger=Rynchops_niger Phaetusa_simplex=Phaetusa_simplex Chroicocephalus_maculipennis=Chroicocephalus_maculipennis Larus_smithsonianus=Larus_smithsonianus Rissa_tridactyla=Rissa_tridactyla Stercorarius_parasiticus=Stercorarius_parasiticus Cepphus_grylle=Cepphus_grylle Alca_torda=Alca_torda Uria_lomvia=Uria_lomvia Uria_aalge=Uria_aalge Psophia_crepitans=Psophia_crepitans Grus_americana=Grus_americana Balearica_regulorum=Balearica_regulorum Aramus_guarauna=Aramus_guarauna Heliornis_fulica=Heliornis_fulica Zapornia_atra=Zapornia_atra Atlantisia_rogersi=Atlantisia_rogersi Chauna_torquata=Chauna_torquata Anser_cygnoid=Anser_cygnoid Cairina_moschata=Cairina_moschata Asarcornis_scutulata=Asarcornis_scutulata Anas_zonorhyncha=Anas_zonorhyncha Anas_platyrhynchos=Anas_platyrhynchos Anseranas_semipalmata=Anseranas_semipalmata Alectura_lathami=Alectura_lathami Penelope_pileata=Penelope_pileata Numida_meleagris=Numida_meleagris Odontophorus_gujanensis=Odontophorus_gujanensis Callipepla_squamata=Callipepla_squamata Colinus_virginianus=Colinus_virginianus Gallus_gallus=Gallus_gallus Coturnix_japonica=Coturnix_japonica Phasianus_colchicus=Phasianus_colchicus Meleagris_gallopavo=Meleagris_gallopavo Tympanuchus_cupido=Tympanuchus_cupido Dromaius_novaehollandiae=Dromaius_novaehollandiae Casuarius_casuarius=Casuarius_casuarius Apteryx_australis=Apteryx_australis Apteryx_rowi=Apteryx_rowi Apteryx_haastii=Apteryx_haastii Apteryx_owenii=Apteryx_owenii Nothocercus_nigrocapillus=Nothocercus_nigrocapillus Nothocercus_julius=Nothocercus_julius Tinamus_guttatus=Tinamus_guttatus Crypturellus_soui=Crypturellus_soui Crypturellus_cinnamomeus=Crypturellus_cinnamomeus Crypturellus_undulatus=Crypturellus_undulatus Nothoprocta_perdicaria=Nothoprocta_perdicaria Nothoprocta_ornata=Nothoprocta_ornata Nothoprocta_pentlandii=Nothoprocta_pentlandii Eudromia_elegans=Eudromia_elegans Rhea_americana=Rhea_americana Rhea_pennata=Rhea_pennata Struthio_camelus=Struthio_camelus
+type halSnake
+html ../documentation/b10kAlignment
+group B10K
+
+
+    track snake_Podiceps_cristatus
+    longLabel Podiceps_cristatus alignment
+    shortLabel Podiceps_cristatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Podiceps_cristatus
+    type halSnake
+    otherSpecies Podiceps_cristatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Podilymbus_podiceps
+    longLabel Podilymbus_podiceps alignment
+    shortLabel Podilymbus_podiceps
+    visibility full
+    parent snakes off
+    subGroups orgs=Podilymbus_podiceps
+    type halSnake
+    otherSpecies Podilymbus_podiceps
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phoenicopterus_ruber
+    longLabel Phoenicopterus_ruber alignment
+    shortLabel Phoenicopterus_ruber
+    visibility full
+    parent snakes off
+    subGroups orgs=Phoenicopterus_ruber
+    type halSnake
+    otherSpecies Phoenicopterus_ruber
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Mesitornis_unicolor
+    longLabel Mesitornis_unicolor alignment
+    shortLabel Mesitornis_unicolor
+    visibility full
+    parent snakes off
+    subGroups orgs=Mesitornis_unicolor
+    type halSnake
+    otherSpecies Mesitornis_unicolor
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Syrrhaptes_paradoxus
+    longLabel Syrrhaptes_paradoxus alignment
+    shortLabel Syrrhaptes_paradoxus
+    visibility full
+    parent snakes off
+    subGroups orgs=Syrrhaptes_paradoxus
+    type halSnake
+    otherSpecies Syrrhaptes_paradoxus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pterocles_gutturalis
+    longLabel Pterocles_gutturalis alignment
+    shortLabel Pterocles_gutturalis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pterocles_gutturalis
+    type halSnake
+    otherSpecies Pterocles_gutturalis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pterocles_burchelli
+    longLabel Pterocles_burchelli alignment
+    shortLabel Pterocles_burchelli
+    visibility full
+    parent snakes off
+    subGroups orgs=Pterocles_burchelli
+    type halSnake
+    otherSpecies Pterocles_burchelli
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Columbina_picui
+    longLabel Columbina_picui alignment
+    shortLabel Columbina_picui
+    visibility full
+    parent snakes off
+    subGroups orgs=Columbina_picui
+    type halSnake
+    otherSpecies Columbina_picui
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Patagioenas_fasciata
+    longLabel Patagioenas_fasciata alignment
+    shortLabel Patagioenas_fasciata
+    visibility full
+    parent snakes off
+    subGroups orgs=Patagioenas_fasciata
+    type halSnake
+    otherSpecies Patagioenas_fasciata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Columba_livia
+    longLabel Columba_livia alignment
+    shortLabel Columba_livia
+    visibility full
+    parent snakes off
+    subGroups orgs=Columba_livia
+    type halSnake
+    otherSpecies Columba_livia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Alopecoenas_beccarii
+    longLabel Alopecoenas_beccarii alignment
+    shortLabel Alopecoenas_beccarii
+    visibility full
+    parent snakes off
+    subGroups orgs=Alopecoenas_beccarii
+    type halSnake
+    otherSpecies Alopecoenas_beccarii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Caloenas_nicobarica
+    longLabel Caloenas_nicobarica alignment
+    shortLabel Caloenas_nicobarica
+    visibility full
+    parent snakes off
+    subGroups orgs=Caloenas_nicobarica
+    type halSnake
+    otherSpecies Caloenas_nicobarica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Steatornis_caripensis
+    longLabel Steatornis_caripensis alignment
+    shortLabel Steatornis_caripensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Steatornis_caripensis
+    type halSnake
+    otherSpecies Steatornis_caripensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nyctibius_grandis
+    longLabel Nyctibius_grandis alignment
+    shortLabel Nyctibius_grandis
+    visibility full
+    parent snakes off
+    subGroups orgs=Nyctibius_grandis
+    type halSnake
+    otherSpecies Nyctibius_grandis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nyctibius_bracteatus
+    longLabel Nyctibius_bracteatus alignment
+    shortLabel Nyctibius_bracteatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Nyctibius_bracteatus
+    type halSnake
+    otherSpecies Nyctibius_bracteatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Podargus_strigoides
+    longLabel Podargus_strigoides alignment
+    shortLabel Podargus_strigoides
+    visibility full
+    parent snakes off
+    subGroups orgs=Podargus_strigoides
+    type halSnake
+    otherSpecies Podargus_strigoides
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aegotheles_bennettii
+    longLabel Aegotheles_bennettii alignment
+    shortLabel Aegotheles_bennettii
+    visibility full
+    parent snakes off
+    subGroups orgs=Aegotheles_bennettii
+    type halSnake
+    otherSpecies Aegotheles_bennettii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chaetura_pelagica
+    longLabel Chaetura_pelagica alignment
+    shortLabel Chaetura_pelagica
+    visibility full
+    parent snakes off
+    subGroups orgs=Chaetura_pelagica
+    type halSnake
+    otherSpecies Chaetura_pelagica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hemiprocne_comata
+    longLabel Hemiprocne_comata alignment
+    shortLabel Hemiprocne_comata
+    visibility full
+    parent snakes off
+    subGroups orgs=Hemiprocne_comata
+    type halSnake
+    otherSpecies Hemiprocne_comata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oreotrochilus_melanogaster
+    longLabel Oreotrochilus_melanogaster alignment
+    shortLabel Oreotrochilus_melanogaster
+    visibility full
+    parent snakes off
+    subGroups orgs=Oreotrochilus_melanogaster
+    type halSnake
+    otherSpecies Oreotrochilus_melanogaster
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Calypte_anna
+    longLabel Calypte_anna alignment
+    shortLabel Calypte_anna
+    visibility full
+    parent snakes off
+    subGroups orgs=Calypte_anna
+    type halSnake
+    otherSpecies Calypte_anna
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chordeiles_acutipennis
+    longLabel Chordeiles_acutipennis alignment
+    shortLabel Chordeiles_acutipennis
+    visibility full
+    parent snakes off
+    subGroups orgs=Chordeiles_acutipennis
+    type halSnake
+    otherSpecies Chordeiles_acutipennis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Antrostomus_carolinensis
+    longLabel Antrostomus_carolinensis alignment
+    shortLabel Antrostomus_carolinensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Antrostomus_carolinensis
+    type halSnake
+    otherSpecies Antrostomus_carolinensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nyctiprogne_leucopyga
+    longLabel Nyctiprogne_leucopyga alignment
+    shortLabel Nyctiprogne_leucopyga
+    visibility full
+    parent snakes off
+    subGroups orgs=Nyctiprogne_leucopyga
+    type halSnake
+    otherSpecies Nyctiprogne_leucopyga
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tauraco_erythrolophus
+    longLabel Tauraco_erythrolophus alignment
+    shortLabel Tauraco_erythrolophus
+    visibility full
+    parent snakes off
+    subGroups orgs=Tauraco_erythrolophus
+    type halSnake
+    otherSpecies Tauraco_erythrolophus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Corythaixoides_concolor
+    longLabel Corythaixoides_concolor alignment
+    shortLabel Corythaixoides_concolor
+    visibility full
+    parent snakes off
+    subGroups orgs=Corythaixoides_concolor
+    type halSnake
+    otherSpecies Corythaixoides_concolor
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Corythaeola_cristata
+    longLabel Corythaeola_cristata alignment
+    shortLabel Corythaeola_cristata
+    visibility full
+    parent snakes off
+    subGroups orgs=Corythaeola_cristata
+    type halSnake
+    otherSpecies Corythaeola_cristata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Lophotis_ruficrista
+    longLabel Lophotis_ruficrista alignment
+    shortLabel Lophotis_ruficrista
+    visibility full
+    parent snakes off
+    subGroups orgs=Lophotis_ruficrista
+    type halSnake
+    otherSpecies Lophotis_ruficrista
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chlamydotis_macqueenii
+    longLabel Chlamydotis_macqueenii alignment
+    shortLabel Chlamydotis_macqueenii
+    visibility full
+    parent snakes off
+    subGroups orgs=Chlamydotis_macqueenii
+    type halSnake
+    otherSpecies Chlamydotis_macqueenii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ardeotis_kori
+    longLabel Ardeotis_kori alignment
+    shortLabel Ardeotis_kori
+    visibility full
+    parent snakes off
+    subGroups orgs=Ardeotis_kori
+    type halSnake
+    otherSpecies Ardeotis_kori
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Crotophaga_sulcirostris
+    longLabel Crotophaga_sulcirostris alignment
+    shortLabel Crotophaga_sulcirostris
+    visibility full
+    parent snakes off
+    subGroups orgs=Crotophaga_sulcirostris
+    type halSnake
+    otherSpecies Crotophaga_sulcirostris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Geococcyx_californianus
+    longLabel Geococcyx_californianus alignment
+    shortLabel Geococcyx_californianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Geococcyx_californianus
+    type halSnake
+    otherSpecies Geococcyx_californianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Centropus_bengalensis
+    longLabel Centropus_bengalensis alignment
+    shortLabel Centropus_bengalensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Centropus_bengalensis
+    type halSnake
+    otherSpecies Centropus_bengalensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Centropus_unirufus
+    longLabel Centropus_unirufus alignment
+    shortLabel Centropus_unirufus
+    visibility full
+    parent snakes off
+    subGroups orgs=Centropus_unirufus
+    type halSnake
+    otherSpecies Centropus_unirufus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ceuthmochares_aereus
+    longLabel Ceuthmochares_aereus alignment
+    shortLabel Ceuthmochares_aereus
+    visibility full
+    parent snakes off
+    subGroups orgs=Ceuthmochares_aereus
+    type halSnake
+    otherSpecies Ceuthmochares_aereus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Piaya_cayana
+    longLabel Piaya_cayana alignment
+    shortLabel Piaya_cayana
+    visibility full
+    parent snakes off
+    subGroups orgs=Piaya_cayana
+    type halSnake
+    otherSpecies Piaya_cayana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cuculus_canorus
+    longLabel Cuculus_canorus alignment
+    shortLabel Cuculus_canorus
+    visibility full
+    parent snakes off
+    subGroups orgs=Cuculus_canorus
+    type halSnake
+    otherSpecies Cuculus_canorus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Leptosomus_discolor
+    longLabel Leptosomus_discolor alignment
+    shortLabel Leptosomus_discolor
+    visibility full
+    parent snakes off
+    subGroups orgs=Leptosomus_discolor
+    type halSnake
+    otherSpecies Leptosomus_discolor
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhinopomastus_cyanomelas
+    longLabel Rhinopomastus_cyanomelas alignment
+    shortLabel Rhinopomastus_cyanomelas
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhinopomastus_cyanomelas
+    type halSnake
+    otherSpecies Rhinopomastus_cyanomelas
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Upupa_epops
+    longLabel Upupa_epops alignment
+    shortLabel Upupa_epops
+    visibility full
+    parent snakes off
+    subGroups orgs=Upupa_epops
+    type halSnake
+    otherSpecies Upupa_epops
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Buceros_rhinoceros
+    longLabel Buceros_rhinoceros alignment
+    shortLabel Buceros_rhinoceros
+    visibility full
+    parent snakes off
+    subGroups orgs=Buceros_rhinoceros
+    type halSnake
+    otherSpecies Buceros_rhinoceros
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Bucorvus_abyssinicus
+    longLabel Bucorvus_abyssinicus alignment
+    shortLabel Bucorvus_abyssinicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Bucorvus_abyssinicus
+    type halSnake
+    otherSpecies Bucorvus_abyssinicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Merops_nubicus
+    longLabel Merops_nubicus alignment
+    shortLabel Merops_nubicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Merops_nubicus
+    type halSnake
+    otherSpecies Merops_nubicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eurystomus_gularis
+    longLabel Eurystomus_gularis alignment
+    shortLabel Eurystomus_gularis
+    visibility full
+    parent snakes off
+    subGroups orgs=Eurystomus_gularis
+    type halSnake
+    otherSpecies Eurystomus_gularis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Brachypteracias_leptosomus
+    longLabel Brachypteracias_leptosomus alignment
+    shortLabel Brachypteracias_leptosomus
+    visibility full
+    parent snakes off
+    subGroups orgs=Brachypteracias_leptosomus
+    type halSnake
+    otherSpecies Brachypteracias_leptosomus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Todus_mexicanus
+    longLabel Todus_mexicanus alignment
+    shortLabel Todus_mexicanus
+    visibility full
+    parent snakes off
+    subGroups orgs=Todus_mexicanus
+    type halSnake
+    otherSpecies Todus_mexicanus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ceyx_cyanopectus
+    longLabel Ceyx_cyanopectus alignment
+    shortLabel Ceyx_cyanopectus
+    visibility full
+    parent snakes off
+    subGroups orgs=Ceyx_cyanopectus
+    type halSnake
+    otherSpecies Ceyx_cyanopectus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chloroceryle_aenea
+    longLabel Chloroceryle_aenea alignment
+    shortLabel Chloroceryle_aenea
+    visibility full
+    parent snakes off
+    subGroups orgs=Chloroceryle_aenea
+    type halSnake
+    otherSpecies Chloroceryle_aenea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Halcyon_senegalensis
+    longLabel Halcyon_senegalensis alignment
+    shortLabel Halcyon_senegalensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Halcyon_senegalensis
+    type halSnake
+    otherSpecies Halcyon_senegalensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Baryphthengus_martii
+    longLabel Baryphthengus_martii alignment
+    shortLabel Baryphthengus_martii
+    visibility full
+    parent snakes off
+    subGroups orgs=Baryphthengus_martii
+    type halSnake
+    otherSpecies Baryphthengus_martii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Bucco_capensis
+    longLabel Bucco_capensis alignment
+    shortLabel Bucco_capensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Bucco_capensis
+    type halSnake
+    otherSpecies Bucco_capensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Galbula_dea
+    longLabel Galbula_dea alignment
+    shortLabel Galbula_dea
+    visibility full
+    parent snakes off
+    subGroups orgs=Galbula_dea
+    type halSnake
+    otherSpecies Galbula_dea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Picoides_pubescens
+    longLabel Picoides_pubescens alignment
+    shortLabel Picoides_pubescens
+    visibility full
+    parent snakes off
+    subGroups orgs=Picoides_pubescens
+    type halSnake
+    otherSpecies Picoides_pubescens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Indicator_maculatus
+    longLabel Indicator_maculatus alignment
+    shortLabel Indicator_maculatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Indicator_maculatus
+    type halSnake
+    otherSpecies Indicator_maculatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Psilopogon_haemacephalus
+    longLabel Psilopogon_haemacephalus alignment
+    shortLabel Psilopogon_haemacephalus
+    visibility full
+    parent snakes off
+    subGroups orgs=Psilopogon_haemacephalus
+    type halSnake
+    otherSpecies Psilopogon_haemacephalus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eubucco_bourcierii
+    longLabel Eubucco_bourcierii alignment
+    shortLabel Eubucco_bourcierii
+    visibility full
+    parent snakes off
+    subGroups orgs=Eubucco_bourcierii
+    type halSnake
+    otherSpecies Eubucco_bourcierii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ramphastos_sulfuratus
+    longLabel Ramphastos_sulfuratus alignment
+    shortLabel Ramphastos_sulfuratus
+    visibility full
+    parent snakes off
+    subGroups orgs=Ramphastos_sulfuratus
+    type halSnake
+    otherSpecies Ramphastos_sulfuratus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Semnornis_frantzii
+    longLabel Semnornis_frantzii alignment
+    shortLabel Semnornis_frantzii
+    visibility full
+    parent snakes off
+    subGroups orgs=Semnornis_frantzii
+    type halSnake
+    otherSpecies Semnornis_frantzii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tricholaema_leucomelas
+    longLabel Tricholaema_leucomelas alignment
+    shortLabel Tricholaema_leucomelas
+    visibility full
+    parent snakes off
+    subGroups orgs=Tricholaema_leucomelas
+    type halSnake
+    otherSpecies Tricholaema_leucomelas
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Trogon_melanurus
+    longLabel Trogon_melanurus alignment
+    shortLabel Trogon_melanurus
+    visibility full
+    parent snakes off
+    subGroups orgs=Trogon_melanurus
+    type halSnake
+    otherSpecies Trogon_melanurus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Apaloderma_vittatum
+    longLabel Apaloderma_vittatum alignment
+    shortLabel Apaloderma_vittatum
+    visibility full
+    parent snakes off
+    subGroups orgs=Apaloderma_vittatum
+    type halSnake
+    otherSpecies Apaloderma_vittatum
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Urocolius_indicus
+    longLabel Urocolius_indicus alignment
+    shortLabel Urocolius_indicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Urocolius_indicus
+    type halSnake
+    otherSpecies Urocolius_indicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Colius_striatus
+    longLabel Colius_striatus alignment
+    shortLabel Colius_striatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Colius_striatus
+    type halSnake
+    otherSpecies Colius_striatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tyto_alba
+    longLabel Tyto_alba alignment
+    shortLabel Tyto_alba
+    visibility full
+    parent snakes off
+    subGroups orgs=Tyto_alba
+    type halSnake
+    otherSpecies Tyto_alba
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Strix_occidentalis
+    longLabel Strix_occidentalis alignment
+    shortLabel Strix_occidentalis
+    visibility full
+    parent snakes off
+    subGroups orgs=Strix_occidentalis
+    type halSnake
+    otherSpecies Strix_occidentalis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ciccaba_nigrolineata
+    longLabel Ciccaba_nigrolineata alignment
+    shortLabel Ciccaba_nigrolineata
+    visibility full
+    parent snakes off
+    subGroups orgs=Ciccaba_nigrolineata
+    type halSnake
+    otherSpecies Ciccaba_nigrolineata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Glaucidium_brasilianum
+    longLabel Glaucidium_brasilianum alignment
+    shortLabel Glaucidium_brasilianum
+    visibility full
+    parent snakes off
+    subGroups orgs=Glaucidium_brasilianum
+    type halSnake
+    otherSpecies Glaucidium_brasilianum
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cathartes_aura
+    longLabel Cathartes_aura alignment
+    shortLabel Cathartes_aura
+    visibility full
+    parent snakes off
+    subGroups orgs=Cathartes_aura
+    type halSnake
+    otherSpecies Cathartes_aura
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sagittarius_serpentarius
+    longLabel Sagittarius_serpentarius alignment
+    shortLabel Sagittarius_serpentarius
+    visibility full
+    parent snakes off
+    subGroups orgs=Sagittarius_serpentarius
+    type halSnake
+    otherSpecies Sagittarius_serpentarius
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pandion_haliaetus
+    longLabel Pandion_haliaetus alignment
+    shortLabel Pandion_haliaetus
+    visibility full
+    parent snakes off
+    subGroups orgs=Pandion_haliaetus
+    type halSnake
+    otherSpecies Pandion_haliaetus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Circaetus_pectoralis
+    longLabel Circaetus_pectoralis alignment
+    shortLabel Circaetus_pectoralis
+    visibility full
+    parent snakes off
+    subGroups orgs=Circaetus_pectoralis
+    type halSnake
+    otherSpecies Circaetus_pectoralis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Haliaeetus_albicilla
+    longLabel Haliaeetus_albicilla alignment
+    shortLabel Haliaeetus_albicilla
+    visibility full
+    parent snakes off
+    subGroups orgs=Haliaeetus_albicilla
+    type halSnake
+    otherSpecies Haliaeetus_albicilla
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Haliaeetus_leucocephalus
+    longLabel Haliaeetus_leucocephalus alignment
+    shortLabel Haliaeetus_leucocephalus
+    visibility full
+    parent snakes off
+    subGroups orgs=Haliaeetus_leucocephalus
+    type halSnake
+    otherSpecies Haliaeetus_leucocephalus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Spizaetus_tyrannus
+    longLabel Spizaetus_tyrannus alignment
+    shortLabel Spizaetus_tyrannus
+    visibility full
+    parent snakes off
+    subGroups orgs=Spizaetus_tyrannus
+    type halSnake
+    otherSpecies Spizaetus_tyrannus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aquila_chrysaetos
+    longLabel Aquila_chrysaetos alignment
+    shortLabel Aquila_chrysaetos
+    visibility full
+    parent snakes off
+    subGroups orgs=Aquila_chrysaetos
+    type halSnake
+    otherSpecies Aquila_chrysaetos
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cariama_cristata
+    longLabel Cariama_cristata alignment
+    shortLabel Cariama_cristata
+    visibility full
+    parent snakes off
+    subGroups orgs=Cariama_cristata
+    type halSnake
+    otherSpecies Cariama_cristata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chunga_burmeisteri
+    longLabel Chunga_burmeisteri alignment
+    shortLabel Chunga_burmeisteri
+    visibility full
+    parent snakes off
+    subGroups orgs=Chunga_burmeisteri
+    type halSnake
+    otherSpecies Chunga_burmeisteri
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nestor_notabilis
+    longLabel Nestor_notabilis alignment
+    shortLabel Nestor_notabilis
+    visibility full
+    parent snakes off
+    subGroups orgs=Nestor_notabilis
+    type halSnake
+    otherSpecies Nestor_notabilis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Melopsittacus_undulatus
+    longLabel Melopsittacus_undulatus alignment
+    shortLabel Melopsittacus_undulatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Melopsittacus_undulatus
+    type halSnake
+    otherSpecies Melopsittacus_undulatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Agapornis_roseicollis
+    longLabel Agapornis_roseicollis alignment
+    shortLabel Agapornis_roseicollis
+    visibility full
+    parent snakes off
+    subGroups orgs=Agapornis_roseicollis
+    type halSnake
+    otherSpecies Agapornis_roseicollis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Amazona_guildingii
+    longLabel Amazona_guildingii alignment
+    shortLabel Amazona_guildingii
+    visibility full
+    parent snakes off
+    subGroups orgs=Amazona_guildingii
+    type halSnake
+    otherSpecies Amazona_guildingii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Probosciger_aterrimus
+    longLabel Probosciger_aterrimus alignment
+    shortLabel Probosciger_aterrimus
+    visibility full
+    parent snakes off
+    subGroups orgs=Probosciger_aterrimus
+    type halSnake
+    otherSpecies Probosciger_aterrimus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eolophus_roseicapillus
+    longLabel Eolophus_roseicapillus alignment
+    shortLabel Eolophus_roseicapillus
+    visibility full
+    parent snakes off
+    subGroups orgs=Eolophus_roseicapillus
+    type halSnake
+    otherSpecies Eolophus_roseicapillus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Acanthisitta_chloris
+    longLabel Acanthisitta_chloris alignment
+    shortLabel Acanthisitta_chloris
+    visibility full
+    parent snakes off
+    subGroups orgs=Acanthisitta_chloris
+    type halSnake
+    otherSpecies Acanthisitta_chloris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Atrichornis_clamosus
+    longLabel Atrichornis_clamosus alignment
+    shortLabel Atrichornis_clamosus
+    visibility full
+    parent snakes off
+    subGroups orgs=Atrichornis_clamosus
+    type halSnake
+    otherSpecies Atrichornis_clamosus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Menura_novaehollandiae
+    longLabel Menura_novaehollandiae alignment
+    shortLabel Menura_novaehollandiae
+    visibility full
+    parent snakes off
+    subGroups orgs=Menura_novaehollandiae
+    type halSnake
+    otherSpecies Menura_novaehollandiae
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ptilonorhynchus_violaceus
+    longLabel Ptilonorhynchus_violaceus alignment
+    shortLabel Ptilonorhynchus_violaceus
+    visibility full
+    parent snakes off
+    subGroups orgs=Ptilonorhynchus_violaceus
+    type halSnake
+    otherSpecies Ptilonorhynchus_violaceus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Climacteris_rufus
+    longLabel Climacteris_rufus alignment
+    shortLabel Climacteris_rufus
+    visibility full
+    parent snakes off
+    subGroups orgs=Climacteris_rufus
+    type halSnake
+    otherSpecies Climacteris_rufus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Malurus_elegans
+    longLabel Malurus_elegans alignment
+    shortLabel Malurus_elegans
+    visibility full
+    parent snakes off
+    subGroups orgs=Malurus_elegans
+    type halSnake
+    otherSpecies Malurus_elegans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dasyornis_broadbenti
+    longLabel Dasyornis_broadbenti alignment
+    shortLabel Dasyornis_broadbenti
+    visibility full
+    parent snakes off
+    subGroups orgs=Dasyornis_broadbenti
+    type halSnake
+    otherSpecies Dasyornis_broadbenti
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Origma_solitaria
+    longLabel Origma_solitaria alignment
+    shortLabel Origma_solitaria
+    visibility full
+    parent snakes off
+    subGroups orgs=Origma_solitaria
+    type halSnake
+    otherSpecies Origma_solitaria
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Grantiella_picta
+    longLabel Grantiella_picta alignment
+    shortLabel Grantiella_picta
+    visibility full
+    parent snakes off
+    subGroups orgs=Grantiella_picta
+    type halSnake
+    otherSpecies Grantiella_picta
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pomatostomus_ruficeps
+    longLabel Pomatostomus_ruficeps alignment
+    shortLabel Pomatostomus_ruficeps
+    visibility full
+    parent snakes off
+    subGroups orgs=Pomatostomus_ruficeps
+    type halSnake
+    otherSpecies Pomatostomus_ruficeps
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Orthonyx_spaldingii
+    longLabel Orthonyx_spaldingii alignment
+    shortLabel Orthonyx_spaldingii
+    visibility full
+    parent snakes off
+    subGroups orgs=Orthonyx_spaldingii
+    type halSnake
+    otherSpecies Orthonyx_spaldingii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ptilorrhoa_leucosticta
+    longLabel Ptilorrhoa_leucosticta alignment
+    shortLabel Ptilorrhoa_leucosticta
+    visibility full
+    parent snakes off
+    subGroups orgs=Ptilorrhoa_leucosticta
+    type halSnake
+    otherSpecies Ptilorrhoa_leucosticta
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Mohoua_ochrocephala
+    longLabel Mohoua_ochrocephala alignment
+    shortLabel Mohoua_ochrocephala
+    visibility full
+    parent snakes off
+    subGroups orgs=Mohoua_ochrocephala
+    type halSnake
+    otherSpecies Mohoua_ochrocephala
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Daphoenositta_chrysoptera
+    longLabel Daphoenositta_chrysoptera alignment
+    shortLabel Daphoenositta_chrysoptera
+    visibility full
+    parent snakes off
+    subGroups orgs=Daphoenositta_chrysoptera
+    type halSnake
+    otherSpecies Daphoenositta_chrysoptera
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eulacestoma_nigropectus
+    longLabel Eulacestoma_nigropectus alignment
+    shortLabel Eulacestoma_nigropectus
+    visibility full
+    parent snakes off
+    subGroups orgs=Eulacestoma_nigropectus
+    type halSnake
+    otherSpecies Eulacestoma_nigropectus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oreocharis_arfaki
+    longLabel Oreocharis_arfaki alignment
+    shortLabel Oreocharis_arfaki
+    visibility full
+    parent snakes off
+    subGroups orgs=Oreocharis_arfaki
+    type halSnake
+    otherSpecies Oreocharis_arfaki
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pteruthius_melanotis
+    longLabel Pteruthius_melanotis alignment
+    shortLabel Pteruthius_melanotis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pteruthius_melanotis
+    type halSnake
+    otherSpecies Pteruthius_melanotis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Vireo_altiloquus
+    longLabel Vireo_altiloquus alignment
+    shortLabel Vireo_altiloquus
+    visibility full
+    parent snakes off
+    subGroups orgs=Vireo_altiloquus
+    type halSnake
+    otherSpecies Vireo_altiloquus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Erpornis_zantholeuca
+    longLabel Erpornis_zantholeuca alignment
+    shortLabel Erpornis_zantholeuca
+    visibility full
+    parent snakes off
+    subGroups orgs=Erpornis_zantholeuca
+    type halSnake
+    otherSpecies Erpornis_zantholeuca
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oriolus_oriolus
+    longLabel Oriolus_oriolus alignment
+    shortLabel Oriolus_oriolus
+    visibility full
+    parent snakes off
+    subGroups orgs=Oriolus_oriolus
+    type halSnake
+    otherSpecies Oriolus_oriolus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pachycephala_philippinensis
+    longLabel Pachycephala_philippinensis alignment
+    shortLabel Pachycephala_philippinensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pachycephala_philippinensis
+    type halSnake
+    otherSpecies Pachycephala_philippinensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Falcunculus_frontatus
+    longLabel Falcunculus_frontatus alignment
+    shortLabel Falcunculus_frontatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Falcunculus_frontatus
+    type halSnake
+    otherSpecies Falcunculus_frontatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aleadryas_rufinucha
+    longLabel Aleadryas_rufinucha alignment
+    shortLabel Aleadryas_rufinucha
+    visibility full
+    parent snakes off
+    subGroups orgs=Aleadryas_rufinucha
+    type halSnake
+    otherSpecies Aleadryas_rufinucha
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chaetorhynchus_papuensis
+    longLabel Chaetorhynchus_papuensis alignment
+    shortLabel Chaetorhynchus_papuensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Chaetorhynchus_papuensis
+    type halSnake
+    otherSpecies Chaetorhynchus_papuensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhipidura_dahli
+    longLabel Rhipidura_dahli alignment
+    shortLabel Rhipidura_dahli
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhipidura_dahli
+    type halSnake
+    otherSpecies Rhipidura_dahli
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dicrurus_megarhynchus
+    longLabel Dicrurus_megarhynchus alignment
+    shortLabel Dicrurus_megarhynchus
+    visibility full
+    parent snakes off
+    subGroups orgs=Dicrurus_megarhynchus
+    type halSnake
+    otherSpecies Dicrurus_megarhynchus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Struthidea_cinerea
+    longLabel Struthidea_cinerea alignment
+    shortLabel Struthidea_cinerea
+    visibility full
+    parent snakes off
+    subGroups orgs=Struthidea_cinerea
+    type halSnake
+    otherSpecies Struthidea_cinerea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aphelocoma_coerulescens
+    longLabel Aphelocoma_coerulescens alignment
+    shortLabel Aphelocoma_coerulescens
+    visibility full
+    parent snakes off
+    subGroups orgs=Aphelocoma_coerulescens
+    type halSnake
+    otherSpecies Aphelocoma_coerulescens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Corvus_moneduloides
+    longLabel Corvus_moneduloides alignment
+    shortLabel Corvus_moneduloides
+    visibility full
+    parent snakes off
+    subGroups orgs=Corvus_moneduloides
+    type halSnake
+    otherSpecies Corvus_moneduloides
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Corvus_brachyrhynchos
+    longLabel Corvus_brachyrhynchos alignment
+    shortLabel Corvus_brachyrhynchos
+    visibility full
+    parent snakes off
+    subGroups orgs=Corvus_brachyrhynchos
+    type halSnake
+    otherSpecies Corvus_brachyrhynchos
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Corvus_cornix
+    longLabel Corvus_cornix alignment
+    shortLabel Corvus_cornix
+    visibility full
+    parent snakes off
+    subGroups orgs=Corvus_cornix
+    type halSnake
+    otherSpecies Corvus_cornix
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Lanius_ludovicianus
+    longLabel Lanius_ludovicianus alignment
+    shortLabel Lanius_ludovicianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Lanius_ludovicianus
+    type halSnake
+    otherSpecies Lanius_ludovicianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ifrita_kowaldi
+    longLabel Ifrita_kowaldi alignment
+    shortLabel Ifrita_kowaldi
+    visibility full
+    parent snakes off
+    subGroups orgs=Ifrita_kowaldi
+    type halSnake
+    otherSpecies Ifrita_kowaldi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Paradisaea_raggiana
+    longLabel Paradisaea_raggiana alignment
+    shortLabel Paradisaea_raggiana
+    visibility full
+    parent snakes off
+    subGroups orgs=Paradisaea_raggiana
+    type halSnake
+    otherSpecies Paradisaea_raggiana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Myiagra_hebetior
+    longLabel Myiagra_hebetior alignment
+    shortLabel Myiagra_hebetior
+    visibility full
+    parent snakes off
+    subGroups orgs=Myiagra_hebetior
+    type halSnake
+    otherSpecies Myiagra_hebetior
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Machaerirhynchus_nigripectus
+    longLabel Machaerirhynchus_nigripectus alignment
+    shortLabel Machaerirhynchus_nigripectus
+    visibility full
+    parent snakes off
+    subGroups orgs=Machaerirhynchus_nigripectus
+    type halSnake
+    otherSpecies Machaerirhynchus_nigripectus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhagologus_leucostigma
+    longLabel Rhagologus_leucostigma alignment
+    shortLabel Rhagologus_leucostigma
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhagologus_leucostigma
+    type halSnake
+    otherSpecies Rhagologus_leucostigma
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dryoscopus_gambensis
+    longLabel Dryoscopus_gambensis alignment
+    shortLabel Dryoscopus_gambensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Dryoscopus_gambensis
+    type halSnake
+    otherSpecies Dryoscopus_gambensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dyaphorophyia_castanea
+    longLabel Dyaphorophyia_castanea alignment
+    shortLabel Dyaphorophyia_castanea
+    visibility full
+    parent snakes off
+    subGroups orgs=Dyaphorophyia_castanea
+    type halSnake
+    otherSpecies Dyaphorophyia_castanea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Mystacornis_crossleyi
+    longLabel Mystacornis_crossleyi alignment
+    shortLabel Mystacornis_crossleyi
+    visibility full
+    parent snakes off
+    subGroups orgs=Mystacornis_crossleyi
+    type halSnake
+    otherSpecies Mystacornis_crossleyi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Gymnorhina_tibicen
+    longLabel Gymnorhina_tibicen alignment
+    shortLabel Gymnorhina_tibicen
+    visibility full
+    parent snakes off
+    subGroups orgs=Gymnorhina_tibicen
+    type halSnake
+    otherSpecies Gymnorhina_tibicen
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Edolisoma_coerulescens
+    longLabel Edolisoma_coerulescens alignment
+    shortLabel Edolisoma_coerulescens
+    visibility full
+    parent snakes off
+    subGroups orgs=Edolisoma_coerulescens
+    type halSnake
+    otherSpecies Edolisoma_coerulescens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cnemophilus_loriae
+    longLabel Cnemophilus_loriae alignment
+    shortLabel Cnemophilus_loriae
+    visibility full
+    parent snakes off
+    subGroups orgs=Cnemophilus_loriae
+    type halSnake
+    otherSpecies Cnemophilus_loriae
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Notiomystis_cincta
+    longLabel Notiomystis_cincta alignment
+    shortLabel Notiomystis_cincta
+    visibility full
+    parent snakes off
+    subGroups orgs=Notiomystis_cincta
+    type halSnake
+    otherSpecies Notiomystis_cincta
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Callaeas_wilsoni
+    longLabel Callaeas_wilsoni alignment
+    shortLabel Callaeas_wilsoni
+    visibility full
+    parent snakes off
+    subGroups orgs=Callaeas_wilsoni
+    type halSnake
+    otherSpecies Callaeas_wilsoni
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anthoscopus_minutus
+    longLabel Anthoscopus_minutus alignment
+    shortLabel Anthoscopus_minutus
+    visibility full
+    parent snakes off
+    subGroups orgs=Anthoscopus_minutus
+    type halSnake
+    otherSpecies Anthoscopus_minutus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Poecile_atricapillus
+    longLabel Poecile_atricapillus alignment
+    shortLabel Poecile_atricapillus
+    visibility full
+    parent snakes off
+    subGroups orgs=Poecile_atricapillus
+    type halSnake
+    otherSpecies Poecile_atricapillus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pseudopodoces_humilis
+    longLabel Pseudopodoces_humilis alignment
+    shortLabel Pseudopodoces_humilis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pseudopodoces_humilis
+    type halSnake
+    otherSpecies Pseudopodoces_humilis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Parus_major
+    longLabel Parus_major alignment
+    shortLabel Parus_major
+    visibility full
+    parent snakes off
+    subGroups orgs=Parus_major
+    type halSnake
+    otherSpecies Parus_major
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Panurus_biarmicus
+    longLabel Panurus_biarmicus alignment
+    shortLabel Panurus_biarmicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Panurus_biarmicus
+    type halSnake
+    otherSpecies Panurus_biarmicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Alaudala_cheleensis
+    longLabel Alaudala_cheleensis alignment
+    shortLabel Alaudala_cheleensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Alaudala_cheleensis
+    type halSnake
+    otherSpecies Alaudala_cheleensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sylvietta_virens
+    longLabel Sylvietta_virens alignment
+    shortLabel Sylvietta_virens
+    visibility full
+    parent snakes off
+    subGroups orgs=Sylvietta_virens
+    type halSnake
+    otherSpecies Sylvietta_virens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cisticola_juncidis
+    longLabel Cisticola_juncidis alignment
+    shortLabel Cisticola_juncidis
+    visibility full
+    parent snakes off
+    subGroups orgs=Cisticola_juncidis
+    type halSnake
+    otherSpecies Cisticola_juncidis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hippolais_icterina
+    longLabel Hippolais_icterina alignment
+    shortLabel Hippolais_icterina
+    visibility full
+    parent snakes off
+    subGroups orgs=Hippolais_icterina
+    type halSnake
+    otherSpecies Hippolais_icterina
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Acrocephalus_arundinaceus
+    longLabel Acrocephalus_arundinaceus alignment
+    shortLabel Acrocephalus_arundinaceus
+    visibility full
+    parent snakes off
+    subGroups orgs=Acrocephalus_arundinaceus
+    type halSnake
+    otherSpecies Acrocephalus_arundinaceus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oxylabes_madagascariensis
+    longLabel Oxylabes_madagascariensis alignment
+    shortLabel Oxylabes_madagascariensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Oxylabes_madagascariensis
+    type halSnake
+    otherSpecies Oxylabes_madagascariensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Donacobius_atricapilla
+    longLabel Donacobius_atricapilla alignment
+    shortLabel Donacobius_atricapilla
+    visibility full
+    parent snakes off
+    subGroups orgs=Donacobius_atricapilla
+    type halSnake
+    otherSpecies Donacobius_atricapilla
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Locustella_ochotensis
+    longLabel Locustella_ochotensis alignment
+    shortLabel Locustella_ochotensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Locustella_ochotensis
+    type halSnake
+    otherSpecies Locustella_ochotensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hirundo_rustica
+    longLabel Hirundo_rustica alignment
+    shortLabel Hirundo_rustica
+    visibility full
+    parent snakes off
+    subGroups orgs=Hirundo_rustica
+    type halSnake
+    otherSpecies Hirundo_rustica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phylloscopus_trochilus
+    longLabel Phylloscopus_trochilus alignment
+    shortLabel Phylloscopus_trochilus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phylloscopus_trochilus
+    type halSnake
+    otherSpecies Phylloscopus_trochilus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhadina_sibilatrix
+    longLabel Rhadina_sibilatrix alignment
+    shortLabel Rhadina_sibilatrix
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhadina_sibilatrix
+    type halSnake
+    otherSpecies Rhadina_sibilatrix
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hylia_prasina
+    longLabel Hylia_prasina alignment
+    shortLabel Hylia_prasina
+    visibility full
+    parent snakes off
+    subGroups orgs=Hylia_prasina
+    type halSnake
+    otherSpecies Hylia_prasina
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aegithalos_caudatus
+    longLabel Aegithalos_caudatus alignment
+    shortLabel Aegithalos_caudatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Aegithalos_caudatus
+    type halSnake
+    otherSpecies Aegithalos_caudatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cettia_cetti
+    longLabel Cettia_cetti alignment
+    shortLabel Cettia_cetti
+    visibility full
+    parent snakes off
+    subGroups orgs=Cettia_cetti
+    type halSnake
+    otherSpecies Cettia_cetti
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Horornis_vulcanius
+    longLabel Horornis_vulcanius alignment
+    shortLabel Horornis_vulcanius
+    visibility full
+    parent snakes off
+    subGroups orgs=Horornis_vulcanius
+    type halSnake
+    otherSpecies Horornis_vulcanius
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Erythrocercus_mccallii
+    longLabel Erythrocercus_mccallii alignment
+    shortLabel Erythrocercus_mccallii
+    visibility full
+    parent snakes off
+    subGroups orgs=Erythrocercus_mccallii
+    type halSnake
+    otherSpecies Erythrocercus_mccallii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sinosuthora_webbiana
+    longLabel Sinosuthora_webbiana alignment
+    shortLabel Sinosuthora_webbiana
+    visibility full
+    parent snakes off
+    subGroups orgs=Sinosuthora_webbiana
+    type halSnake
+    otherSpecies Sinosuthora_webbiana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sylvia_borin
+    longLabel Sylvia_borin alignment
+    shortLabel Sylvia_borin
+    visibility full
+    parent snakes off
+    subGroups orgs=Sylvia_borin
+    type halSnake
+    otherSpecies Sylvia_borin
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sylvia_atricapilla
+    longLabel Sylvia_atricapilla alignment
+    shortLabel Sylvia_atricapilla
+    visibility full
+    parent snakes off
+    subGroups orgs=Sylvia_atricapilla
+    type halSnake
+    otherSpecies Sylvia_atricapilla
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pomatorhinus_ruficollis
+    longLabel Pomatorhinus_ruficollis alignment
+    shortLabel Pomatorhinus_ruficollis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pomatorhinus_ruficollis
+    type halSnake
+    otherSpecies Pomatorhinus_ruficollis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Illadopsis_cleaveri
+    longLabel Illadopsis_cleaveri alignment
+    shortLabel Illadopsis_cleaveri
+    visibility full
+    parent snakes off
+    subGroups orgs=Illadopsis_cleaveri
+    type halSnake
+    otherSpecies Illadopsis_cleaveri
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Leiothrix_lutea
+    longLabel Leiothrix_lutea alignment
+    shortLabel Leiothrix_lutea
+    visibility full
+    parent snakes off
+    subGroups orgs=Leiothrix_lutea
+    type halSnake
+    otherSpecies Leiothrix_lutea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Zosterops_hypoxanthus
+    longLabel Zosterops_hypoxanthus alignment
+    shortLabel Zosterops_hypoxanthus
+    visibility full
+    parent snakes off
+    subGroups orgs=Zosterops_hypoxanthus
+    type halSnake
+    otherSpecies Zosterops_hypoxanthus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Zosterops_lateralis
+    longLabel Zosterops_lateralis alignment
+    shortLabel Zosterops_lateralis
+    visibility full
+    parent snakes off
+    subGroups orgs=Zosterops_lateralis
+    type halSnake
+    otherSpecies Zosterops_lateralis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sterrhoptilus_dennistouni
+    longLabel Sterrhoptilus_dennistouni alignment
+    shortLabel Sterrhoptilus_dennistouni
+    visibility full
+    parent snakes off
+    subGroups orgs=Sterrhoptilus_dennistouni
+    type halSnake
+    otherSpecies Sterrhoptilus_dennistouni
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pycnonotus_jocosus
+    longLabel Pycnonotus_jocosus alignment
+    shortLabel Pycnonotus_jocosus
+    visibility full
+    parent snakes off
+    subGroups orgs=Pycnonotus_jocosus
+    type halSnake
+    otherSpecies Pycnonotus_jocosus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Brachypodius_atriceps
+    longLabel Brachypodius_atriceps alignment
+    shortLabel Brachypodius_atriceps
+    visibility full
+    parent snakes off
+    subGroups orgs=Brachypodius_atriceps
+    type halSnake
+    otherSpecies Brachypodius_atriceps
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nicator_chloris
+    longLabel Nicator_chloris alignment
+    shortLabel Nicator_chloris
+    visibility full
+    parent snakes off
+    subGroups orgs=Nicator_chloris
+    type halSnake
+    otherSpecies Nicator_chloris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tichodroma_muraria
+    longLabel Tichodroma_muraria alignment
+    shortLabel Tichodroma_muraria
+    visibility full
+    parent snakes off
+    subGroups orgs=Tichodroma_muraria
+    type halSnake
+    otherSpecies Tichodroma_muraria
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Thryothorus_ludovicianus
+    longLabel Thryothorus_ludovicianus alignment
+    shortLabel Thryothorus_ludovicianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Thryothorus_ludovicianus
+    type halSnake
+    otherSpecies Thryothorus_ludovicianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Polioptila_caerulea
+    longLabel Polioptila_caerulea alignment
+    shortLabel Polioptila_caerulea
+    visibility full
+    parent snakes off
+    subGroups orgs=Polioptila_caerulea
+    type halSnake
+    otherSpecies Polioptila_caerulea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Certhia_familiaris
+    longLabel Certhia_familiaris alignment
+    shortLabel Certhia_familiaris
+    visibility full
+    parent snakes off
+    subGroups orgs=Certhia_familiaris
+    type halSnake
+    otherSpecies Certhia_familiaris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Certhia_brachydactyla
+    longLabel Certhia_brachydactyla alignment
+    shortLabel Certhia_brachydactyla
+    visibility full
+    parent snakes off
+    subGroups orgs=Certhia_brachydactyla
+    type halSnake
+    otherSpecies Certhia_brachydactyla
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sitta_europaea
+    longLabel Sitta_europaea alignment
+    shortLabel Sitta_europaea
+    visibility full
+    parent snakes off
+    subGroups orgs=Sitta_europaea
+    type halSnake
+    otherSpecies Sitta_europaea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Elachura_formosa
+    longLabel Elachura_formosa alignment
+    shortLabel Elachura_formosa
+    visibility full
+    parent snakes off
+    subGroups orgs=Elachura_formosa
+    type halSnake
+    otherSpecies Elachura_formosa
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cinclus_mexicanus
+    longLabel Cinclus_mexicanus alignment
+    shortLabel Cinclus_mexicanus
+    visibility full
+    parent snakes off
+    subGroups orgs=Cinclus_mexicanus
+    type halSnake
+    otherSpecies Cinclus_mexicanus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Buphagus_erythrorhynchus
+    longLabel Buphagus_erythrorhynchus alignment
+    shortLabel Buphagus_erythrorhynchus
+    visibility full
+    parent snakes off
+    subGroups orgs=Buphagus_erythrorhynchus
+    type halSnake
+    otherSpecies Buphagus_erythrorhynchus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Toxostoma_redivivum
+    longLabel Toxostoma_redivivum alignment
+    shortLabel Toxostoma_redivivum
+    visibility full
+    parent snakes off
+    subGroups orgs=Toxostoma_redivivum
+    type halSnake
+    otherSpecies Toxostoma_redivivum
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Leucopsar_rothschildi
+    longLabel Leucopsar_rothschildi alignment
+    shortLabel Leucopsar_rothschildi
+    visibility full
+    parent snakes off
+    subGroups orgs=Leucopsar_rothschildi
+    type halSnake
+    otherSpecies Leucopsar_rothschildi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sturnus_vulgaris
+    longLabel Sturnus_vulgaris alignment
+    shortLabel Sturnus_vulgaris
+    visibility full
+    parent snakes off
+    subGroups orgs=Sturnus_vulgaris
+    type halSnake
+    otherSpecies Sturnus_vulgaris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhabdornis_inornatus
+    longLabel Rhabdornis_inornatus alignment
+    shortLabel Rhabdornis_inornatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhabdornis_inornatus
+    type halSnake
+    otherSpecies Rhabdornis_inornatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Catharus_fuscescens
+    longLabel Catharus_fuscescens alignment
+    shortLabel Catharus_fuscescens
+    visibility full
+    parent snakes off
+    subGroups orgs=Catharus_fuscescens
+    type halSnake
+    otherSpecies Catharus_fuscescens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ficedula_albicollis
+    longLabel Ficedula_albicollis alignment
+    shortLabel Ficedula_albicollis
+    visibility full
+    parent snakes off
+    subGroups orgs=Ficedula_albicollis
+    type halSnake
+    otherSpecies Ficedula_albicollis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Saxicola_maurus
+    longLabel Saxicola_maurus alignment
+    shortLabel Saxicola_maurus
+    visibility full
+    parent snakes off
+    subGroups orgs=Saxicola_maurus
+    type halSnake
+    otherSpecies Saxicola_maurus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oenanthe_oenanthe
+    longLabel Oenanthe_oenanthe alignment
+    shortLabel Oenanthe_oenanthe
+    visibility full
+    parent snakes off
+    subGroups orgs=Oenanthe_oenanthe
+    type halSnake
+    otherSpecies Oenanthe_oenanthe
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Erithacus_rubecula
+    longLabel Erithacus_rubecula alignment
+    shortLabel Erithacus_rubecula
+    visibility full
+    parent snakes off
+    subGroups orgs=Erithacus_rubecula
+    type halSnake
+    otherSpecies Erithacus_rubecula
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Copsychus_sechellarum
+    longLabel Copsychus_sechellarum alignment
+    shortLabel Copsychus_sechellarum
+    visibility full
+    parent snakes off
+    subGroups orgs=Copsychus_sechellarum
+    type halSnake
+    otherSpecies Copsychus_sechellarum
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cercotrichas_coryphaeus
+    longLabel Cercotrichas_coryphaeus alignment
+    shortLabel Cercotrichas_coryphaeus
+    visibility full
+    parent snakes off
+    subGroups orgs=Cercotrichas_coryphaeus
+    type halSnake
+    otherSpecies Cercotrichas_coryphaeus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Regulus_satrapa
+    longLabel Regulus_satrapa alignment
+    shortLabel Regulus_satrapa
+    visibility full
+    parent snakes off
+    subGroups orgs=Regulus_satrapa
+    type halSnake
+    otherSpecies Regulus_satrapa
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phainopepla_nitens
+    longLabel Phainopepla_nitens alignment
+    shortLabel Phainopepla_nitens
+    visibility full
+    parent snakes off
+    subGroups orgs=Phainopepla_nitens
+    type halSnake
+    otherSpecies Phainopepla_nitens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Bombycilla_garrulus
+    longLabel Bombycilla_garrulus alignment
+    shortLabel Bombycilla_garrulus
+    visibility full
+    parent snakes off
+    subGroups orgs=Bombycilla_garrulus
+    type halSnake
+    otherSpecies Bombycilla_garrulus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Promerops_cafer
+    longLabel Promerops_cafer alignment
+    shortLabel Promerops_cafer
+    visibility full
+    parent snakes off
+    subGroups orgs=Promerops_cafer
+    type halSnake
+    otherSpecies Promerops_cafer
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dicaeum_eximium
+    longLabel Dicaeum_eximium alignment
+    shortLabel Dicaeum_eximium
+    visibility full
+    parent snakes off
+    subGroups orgs=Dicaeum_eximium
+    type halSnake
+    otherSpecies Dicaeum_eximium
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Leptocoma_aspasia
+    longLabel Leptocoma_aspasia alignment
+    shortLabel Leptocoma_aspasia
+    visibility full
+    parent snakes off
+    subGroups orgs=Leptocoma_aspasia
+    type halSnake
+    otherSpecies Leptocoma_aspasia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chloropsis_cyanopogon
+    longLabel Chloropsis_cyanopogon alignment
+    shortLabel Chloropsis_cyanopogon
+    visibility full
+    parent snakes off
+    subGroups orgs=Chloropsis_cyanopogon
+    type halSnake
+    otherSpecies Chloropsis_cyanopogon
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chloropsis_hardwickii
+    longLabel Chloropsis_hardwickii alignment
+    shortLabel Chloropsis_hardwickii
+    visibility full
+    parent snakes off
+    subGroups orgs=Chloropsis_hardwickii
+    type halSnake
+    otherSpecies Chloropsis_hardwickii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Peucedramus_taeniatus
+    longLabel Peucedramus_taeniatus alignment
+    shortLabel Peucedramus_taeniatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Peucedramus_taeniatus
+    type halSnake
+    otherSpecies Peucedramus_taeniatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Urocynchramus_pylzowi
+    longLabel Urocynchramus_pylzowi alignment
+    shortLabel Urocynchramus_pylzowi
+    visibility full
+    parent snakes off
+    subGroups orgs=Urocynchramus_pylzowi
+    type halSnake
+    otherSpecies Urocynchramus_pylzowi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ploceus_nigricollis
+    longLabel Ploceus_nigricollis alignment
+    shortLabel Ploceus_nigricollis
+    visibility full
+    parent snakes off
+    subGroups orgs=Ploceus_nigricollis
+    type halSnake
+    otherSpecies Ploceus_nigricollis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Vidua_chalybeata
+    longLabel Vidua_chalybeata alignment
+    shortLabel Vidua_chalybeata
+    visibility full
+    parent snakes off
+    subGroups orgs=Vidua_chalybeata
+    type halSnake
+    otherSpecies Vidua_chalybeata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Vidua_macroura
+    longLabel Vidua_macroura alignment
+    shortLabel Vidua_macroura
+    visibility full
+    parent snakes off
+    subGroups orgs=Vidua_macroura
+    type halSnake
+    otherSpecies Vidua_macroura
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Lonchura_striata
+    longLabel Lonchura_striata alignment
+    shortLabel Lonchura_striata
+    visibility full
+    parent snakes off
+    subGroups orgs=Lonchura_striata
+    type halSnake
+    otherSpecies Lonchura_striata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Taeniopygia_guttata
+    longLabel Taeniopygia_guttata alignment
+    shortLabel Taeniopygia_guttata
+    visibility full
+    parent snakes off
+    subGroups orgs=Taeniopygia_guttata
+    type halSnake
+    otherSpecies Taeniopygia_guttata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Prunella_fulvescens
+    longLabel Prunella_fulvescens alignment
+    shortLabel Prunella_fulvescens
+    visibility full
+    parent snakes off
+    subGroups orgs=Prunella_fulvescens
+    type halSnake
+    otherSpecies Prunella_fulvescens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Prunella_himalayana
+    longLabel Prunella_himalayana alignment
+    shortLabel Prunella_himalayana
+    visibility full
+    parent snakes off
+    subGroups orgs=Prunella_himalayana
+    type halSnake
+    otherSpecies Prunella_himalayana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Passer_domesticus
+    longLabel Passer_domesticus alignment
+    shortLabel Passer_domesticus
+    visibility full
+    parent snakes off
+    subGroups orgs=Passer_domesticus
+    type halSnake
+    otherSpecies Passer_domesticus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hypocryptadius_cinnamomeus
+    longLabel Hypocryptadius_cinnamomeus alignment
+    shortLabel Hypocryptadius_cinnamomeus
+    visibility full
+    parent snakes off
+    subGroups orgs=Hypocryptadius_cinnamomeus
+    type halSnake
+    otherSpecies Hypocryptadius_cinnamomeus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Motacilla_alba
+    longLabel Motacilla_alba alignment
+    shortLabel Motacilla_alba
+    visibility full
+    parent snakes off
+    subGroups orgs=Motacilla_alba
+    type halSnake
+    otherSpecies Motacilla_alba
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hemignathus_wilsoni
+    longLabel Hemignathus_wilsoni alignment
+    shortLabel Hemignathus_wilsoni
+    visibility full
+    parent snakes off
+    subGroups orgs=Hemignathus_wilsoni
+    type halSnake
+    otherSpecies Hemignathus_wilsoni
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chlorodrepanis_virens
+    longLabel Chlorodrepanis_virens alignment
+    shortLabel Chlorodrepanis_virens
+    visibility full
+    parent snakes off
+    subGroups orgs=Chlorodrepanis_virens
+    type halSnake
+    otherSpecies Chlorodrepanis_virens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Serinus_canaria
+    longLabel Serinus_canaria alignment
+    shortLabel Serinus_canaria
+    visibility full
+    parent snakes off
+    subGroups orgs=Serinus_canaria
+    type halSnake
+    otherSpecies Serinus_canaria
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Loxia_curvirostra
+    longLabel Loxia_curvirostra alignment
+    shortLabel Loxia_curvirostra
+    visibility full
+    parent snakes off
+    subGroups orgs=Loxia_curvirostra
+    type halSnake
+    otherSpecies Loxia_curvirostra
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Loxia_leucoptera
+    longLabel Loxia_leucoptera alignment
+    shortLabel Loxia_leucoptera
+    visibility full
+    parent snakes off
+    subGroups orgs=Loxia_leucoptera
+    type halSnake
+    otherSpecies Loxia_leucoptera
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhodinocichla_rosea
+    longLabel Rhodinocichla_rosea alignment
+    shortLabel Rhodinocichla_rosea
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhodinocichla_rosea
+    type halSnake
+    otherSpecies Rhodinocichla_rosea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Calcarius_ornatus
+    longLabel Calcarius_ornatus alignment
+    shortLabel Calcarius_ornatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Calcarius_ornatus
+    type halSnake
+    otherSpecies Calcarius_ornatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Emberiza_fucata
+    longLabel Emberiza_fucata alignment
+    shortLabel Emberiza_fucata
+    visibility full
+    parent snakes off
+    subGroups orgs=Emberiza_fucata
+    type halSnake
+    otherSpecies Emberiza_fucata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nesospiza_acunhae
+    longLabel Nesospiza_acunhae alignment
+    shortLabel Nesospiza_acunhae
+    visibility full
+    parent snakes off
+    subGroups orgs=Nesospiza_acunhae
+    type halSnake
+    otherSpecies Nesospiza_acunhae
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Geospiza_fortis
+    longLabel Geospiza_fortis alignment
+    shortLabel Geospiza_fortis
+    visibility full
+    parent snakes off
+    subGroups orgs=Geospiza_fortis
+    type halSnake
+    otherSpecies Geospiza_fortis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sporophila_hypoxantha
+    longLabel Sporophila_hypoxantha alignment
+    shortLabel Sporophila_hypoxantha
+    visibility full
+    parent snakes off
+    subGroups orgs=Sporophila_hypoxantha
+    type halSnake
+    otherSpecies Sporophila_hypoxantha
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pheucticus_melanocephalus
+    longLabel Pheucticus_melanocephalus alignment
+    shortLabel Pheucticus_melanocephalus
+    visibility full
+    parent snakes off
+    subGroups orgs=Pheucticus_melanocephalus
+    type halSnake
+    otherSpecies Pheucticus_melanocephalus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cardinalis_cardinalis
+    longLabel Cardinalis_cardinalis alignment
+    shortLabel Cardinalis_cardinalis
+    visibility full
+    parent snakes off
+    subGroups orgs=Cardinalis_cardinalis
+    type halSnake
+    otherSpecies Cardinalis_cardinalis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Passerina_amoena
+    longLabel Passerina_amoena alignment
+    shortLabel Passerina_amoena
+    visibility full
+    parent snakes off
+    subGroups orgs=Passerina_amoena
+    type halSnake
+    otherSpecies Passerina_amoena
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Quiscalus_mexicanus
+    longLabel Quiscalus_mexicanus alignment
+    shortLabel Quiscalus_mexicanus
+    visibility full
+    parent snakes off
+    subGroups orgs=Quiscalus_mexicanus
+    type halSnake
+    otherSpecies Quiscalus_mexicanus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Molothrus_ater
+    longLabel Molothrus_ater alignment
+    shortLabel Molothrus_ater
+    visibility full
+    parent snakes off
+    subGroups orgs=Molothrus_ater
+    type halSnake
+    otherSpecies Molothrus_ater
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Agelaius_phoeniceus
+    longLabel Agelaius_phoeniceus alignment
+    shortLabel Agelaius_phoeniceus
+    visibility full
+    parent snakes off
+    subGroups orgs=Agelaius_phoeniceus
+    type halSnake
+    otherSpecies Agelaius_phoeniceus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Setophaga_coronata
+    longLabel Setophaga_coronata alignment
+    shortLabel Setophaga_coronata
+    visibility full
+    parent snakes off
+    subGroups orgs=Setophaga_coronata
+    type halSnake
+    otherSpecies Setophaga_coronata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Setophaga_kirtlandii
+    longLabel Setophaga_kirtlandii alignment
+    shortLabel Setophaga_kirtlandii
+    visibility full
+    parent snakes off
+    subGroups orgs=Setophaga_kirtlandii
+    type halSnake
+    otherSpecies Setophaga_kirtlandii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Zonotrichia_albicollis
+    longLabel Zonotrichia_albicollis alignment
+    shortLabel Zonotrichia_albicollis
+    visibility full
+    parent snakes off
+    subGroups orgs=Zonotrichia_albicollis
+    type halSnake
+    otherSpecies Zonotrichia_albicollis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Junco_hyemalis
+    longLabel Junco_hyemalis alignment
+    shortLabel Junco_hyemalis
+    visibility full
+    parent snakes off
+    subGroups orgs=Junco_hyemalis
+    type halSnake
+    otherSpecies Junco_hyemalis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Melospiza_melodia
+    longLabel Melospiza_melodia alignment
+    shortLabel Melospiza_melodia
+    visibility full
+    parent snakes off
+    subGroups orgs=Melospiza_melodia
+    type halSnake
+    otherSpecies Melospiza_melodia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Spizella_passerina
+    longLabel Spizella_passerina alignment
+    shortLabel Spizella_passerina
+    visibility full
+    parent snakes off
+    subGroups orgs=Spizella_passerina
+    type halSnake
+    otherSpecies Spizella_passerina
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Irena_cyanogastra
+    longLabel Irena_cyanogastra alignment
+    shortLabel Irena_cyanogastra
+    visibility full
+    parent snakes off
+    subGroups orgs=Irena_cyanogastra
+    type halSnake
+    otherSpecies Irena_cyanogastra
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Picathartes_gymnocephalus
+    longLabel Picathartes_gymnocephalus alignment
+    shortLabel Picathartes_gymnocephalus
+    visibility full
+    parent snakes off
+    subGroups orgs=Picathartes_gymnocephalus
+    type halSnake
+    otherSpecies Picathartes_gymnocephalus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chaetops_frenatus
+    longLabel Chaetops_frenatus alignment
+    shortLabel Chaetops_frenatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Chaetops_frenatus
+    type halSnake
+    otherSpecies Chaetops_frenatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Drymodes_brunneopygia
+    longLabel Drymodes_brunneopygia alignment
+    shortLabel Drymodes_brunneopygia
+    visibility full
+    parent snakes off
+    subGroups orgs=Drymodes_brunneopygia
+    type halSnake
+    otherSpecies Drymodes_brunneopygia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Melanocharis_versteri
+    longLabel Melanocharis_versteri alignment
+    shortLabel Melanocharis_versteri
+    visibility full
+    parent snakes off
+    subGroups orgs=Melanocharis_versteri
+    type halSnake
+    otherSpecies Melanocharis_versteri
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cephalopterus_ornatus
+    longLabel Cephalopterus_ornatus alignment
+    shortLabel Cephalopterus_ornatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Cephalopterus_ornatus
+    type halSnake
+    otherSpecies Cephalopterus_ornatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pachyramphus_minor
+    longLabel Pachyramphus_minor alignment
+    shortLabel Pachyramphus_minor
+    visibility full
+    parent snakes off
+    subGroups orgs=Pachyramphus_minor
+    type halSnake
+    otherSpecies Pachyramphus_minor
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Onychorhynchus_coronatus
+    longLabel Onychorhynchus_coronatus alignment
+    shortLabel Onychorhynchus_coronatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Onychorhynchus_coronatus
+    type halSnake
+    otherSpecies Onychorhynchus_coronatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oxyruncus_cristatus
+    longLabel Oxyruncus_cristatus alignment
+    shortLabel Oxyruncus_cristatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Oxyruncus_cristatus
+    type halSnake
+    otherSpecies Oxyruncus_cristatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Piprites_chloris
+    longLabel Piprites_chloris alignment
+    shortLabel Piprites_chloris
+    visibility full
+    parent snakes off
+    subGroups orgs=Piprites_chloris
+    type halSnake
+    otherSpecies Piprites_chloris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Neopipo_cinnamomea
+    longLabel Neopipo_cinnamomea alignment
+    shortLabel Neopipo_cinnamomea
+    visibility full
+    parent snakes off
+    subGroups orgs=Neopipo_cinnamomea
+    type halSnake
+    otherSpecies Neopipo_cinnamomea
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tachuris_rubrigastra
+    longLabel Tachuris_rubrigastra alignment
+    shortLabel Tachuris_rubrigastra
+    visibility full
+    parent snakes off
+    subGroups orgs=Tachuris_rubrigastra
+    type halSnake
+    otherSpecies Tachuris_rubrigastra
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tyrannus_savana
+    longLabel Tyrannus_savana alignment
+    shortLabel Tyrannus_savana
+    visibility full
+    parent snakes off
+    subGroups orgs=Tyrannus_savana
+    type halSnake
+    otherSpecies Tyrannus_savana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Mionectes_macconnelli
+    longLabel Mionectes_macconnelli alignment
+    shortLabel Mionectes_macconnelli
+    visibility full
+    parent snakes off
+    subGroups orgs=Mionectes_macconnelli
+    type halSnake
+    otherSpecies Mionectes_macconnelli
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Lepidothrix_coronata
+    longLabel Lepidothrix_coronata alignment
+    shortLabel Lepidothrix_coronata
+    visibility full
+    parent snakes off
+    subGroups orgs=Lepidothrix_coronata
+    type halSnake
+    otherSpecies Lepidothrix_coronata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Manacus_manacus
+    longLabel Manacus_manacus alignment
+    shortLabel Manacus_manacus
+    visibility full
+    parent snakes off
+    subGroups orgs=Manacus_manacus
+    type halSnake
+    otherSpecies Manacus_manacus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhegmatorhina_hoffmannsi
+    longLabel Rhegmatorhina_hoffmannsi alignment
+    shortLabel Rhegmatorhina_hoffmannsi
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhegmatorhina_hoffmannsi
+    type halSnake
+    otherSpecies Rhegmatorhina_hoffmannsi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sakesphorus_luctuosus
+    longLabel Sakesphorus_luctuosus alignment
+    shortLabel Sakesphorus_luctuosus
+    visibility full
+    parent snakes off
+    subGroups orgs=Sakesphorus_luctuosus
+    type halSnake
+    otherSpecies Sakesphorus_luctuosus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Grallaria_varia
+    longLabel Grallaria_varia alignment
+    shortLabel Grallaria_varia
+    visibility full
+    parent snakes off
+    subGroups orgs=Grallaria_varia
+    type halSnake
+    otherSpecies Grallaria_varia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Scytalopus_superciliaris
+    longLabel Scytalopus_superciliaris alignment
+    shortLabel Scytalopus_superciliaris
+    visibility full
+    parent snakes off
+    subGroups orgs=Scytalopus_superciliaris
+    type halSnake
+    otherSpecies Scytalopus_superciliaris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Formicarius_rufipectus
+    longLabel Formicarius_rufipectus alignment
+    shortLabel Formicarius_rufipectus
+    visibility full
+    parent snakes off
+    subGroups orgs=Formicarius_rufipectus
+    type halSnake
+    otherSpecies Formicarius_rufipectus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sclerurus_mexicanus
+    longLabel Sclerurus_mexicanus alignment
+    shortLabel Sclerurus_mexicanus
+    visibility full
+    parent snakes off
+    subGroups orgs=Sclerurus_mexicanus
+    type halSnake
+    otherSpecies Sclerurus_mexicanus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Furnarius_figulus
+    longLabel Furnarius_figulus alignment
+    shortLabel Furnarius_figulus
+    visibility full
+    parent snakes off
+    subGroups orgs=Furnarius_figulus
+    type halSnake
+    otherSpecies Furnarius_figulus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Campylorhamphus_procurvoides
+    longLabel Campylorhamphus_procurvoides alignment
+    shortLabel Campylorhamphus_procurvoides
+    visibility full
+    parent snakes off
+    subGroups orgs=Campylorhamphus_procurvoides
+    type halSnake
+    otherSpecies Campylorhamphus_procurvoides
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Xiphorhynchus_elegans
+    longLabel Xiphorhynchus_elegans alignment
+    shortLabel Xiphorhynchus_elegans
+    visibility full
+    parent snakes off
+    subGroups orgs=Xiphorhynchus_elegans
+    type halSnake
+    otherSpecies Xiphorhynchus_elegans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Serilophus_lunatus
+    longLabel Serilophus_lunatus alignment
+    shortLabel Serilophus_lunatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Serilophus_lunatus
+    type halSnake
+    otherSpecies Serilophus_lunatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Neodrepanis_coruscans
+    longLabel Neodrepanis_coruscans alignment
+    shortLabel Neodrepanis_coruscans
+    visibility full
+    parent snakes off
+    subGroups orgs=Neodrepanis_coruscans
+    type halSnake
+    otherSpecies Neodrepanis_coruscans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pitta_sordida
+    longLabel Pitta_sordida alignment
+    shortLabel Pitta_sordida
+    visibility full
+    parent snakes off
+    subGroups orgs=Pitta_sordida
+    type halSnake
+    otherSpecies Pitta_sordida
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sapayoa_aenigma
+    longLabel Sapayoa_aenigma alignment
+    shortLabel Sapayoa_aenigma
+    visibility full
+    parent snakes off
+    subGroups orgs=Sapayoa_aenigma
+    type halSnake
+    otherSpecies Sapayoa_aenigma
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Calyptomena_viridis
+    longLabel Calyptomena_viridis alignment
+    shortLabel Calyptomena_viridis
+    visibility full
+    parent snakes off
+    subGroups orgs=Calyptomena_viridis
+    type halSnake
+    otherSpecies Calyptomena_viridis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Smithornis_capensis
+    longLabel Smithornis_capensis alignment
+    shortLabel Smithornis_capensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Smithornis_capensis
+    type halSnake
+    otherSpecies Smithornis_capensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Herpetotheres_cachinnans
+    longLabel Herpetotheres_cachinnans alignment
+    shortLabel Herpetotheres_cachinnans
+    visibility full
+    parent snakes off
+    subGroups orgs=Herpetotheres_cachinnans
+    type halSnake
+    otherSpecies Herpetotheres_cachinnans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Falco_cherrug
+    longLabel Falco_cherrug alignment
+    shortLabel Falco_cherrug
+    visibility full
+    parent snakes off
+    subGroups orgs=Falco_cherrug
+    type halSnake
+    otherSpecies Falco_cherrug
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Falco_peregrinus
+    longLabel Falco_peregrinus alignment
+    shortLabel Falco_peregrinus
+    visibility full
+    parent snakes off
+    subGroups orgs=Falco_peregrinus
+    type halSnake
+    otherSpecies Falco_peregrinus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Fregata_magnificens
+    longLabel Fregata_magnificens alignment
+    shortLabel Fregata_magnificens
+    visibility full
+    parent snakes off
+    subGroups orgs=Fregata_magnificens
+    type halSnake
+    otherSpecies Fregata_magnificens
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Sula_dactylatra
+    longLabel Sula_dactylatra alignment
+    shortLabel Sula_dactylatra
+    visibility full
+    parent snakes off
+    subGroups orgs=Sula_dactylatra
+    type halSnake
+    otherSpecies Sula_dactylatra
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anhinga_rufa
+    longLabel Anhinga_rufa alignment
+    shortLabel Anhinga_rufa
+    visibility full
+    parent snakes off
+    subGroups orgs=Anhinga_rufa
+    type halSnake
+    otherSpecies Anhinga_rufa
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anhinga_anhinga
+    longLabel Anhinga_anhinga alignment
+    shortLabel Anhinga_anhinga
+    visibility full
+    parent snakes off
+    subGroups orgs=Anhinga_anhinga
+    type halSnake
+    otherSpecies Anhinga_anhinga
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phalacrocorax_pelagicus
+    longLabel Phalacrocorax_pelagicus alignment
+    shortLabel Phalacrocorax_pelagicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phalacrocorax_pelagicus
+    type halSnake
+    otherSpecies Phalacrocorax_pelagicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phalacrocorax_carbo
+    longLabel Phalacrocorax_carbo alignment
+    shortLabel Phalacrocorax_carbo
+    visibility full
+    parent snakes off
+    subGroups orgs=Phalacrocorax_carbo
+    type halSnake
+    otherSpecies Phalacrocorax_carbo
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phalacrocorax_harrisi
+    longLabel Phalacrocorax_harrisi alignment
+    shortLabel Phalacrocorax_harrisi
+    visibility full
+    parent snakes off
+    subGroups orgs=Phalacrocorax_harrisi
+    type halSnake
+    otherSpecies Phalacrocorax_harrisi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phalacrocorax_auritus
+    longLabel Phalacrocorax_auritus alignment
+    shortLabel Phalacrocorax_auritus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phalacrocorax_auritus
+    type halSnake
+    otherSpecies Phalacrocorax_auritus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phalacrocorax_brasilianus
+    longLabel Phalacrocorax_brasilianus alignment
+    shortLabel Phalacrocorax_brasilianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phalacrocorax_brasilianus
+    type halSnake
+    otherSpecies Phalacrocorax_brasilianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Egretta_garzetta
+    longLabel Egretta_garzetta alignment
+    shortLabel Egretta_garzetta
+    visibility full
+    parent snakes off
+    subGroups orgs=Egretta_garzetta
+    type halSnake
+    otherSpecies Egretta_garzetta
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cochlearius_cochlearius
+    longLabel Cochlearius_cochlearius alignment
+    shortLabel Cochlearius_cochlearius
+    visibility full
+    parent snakes off
+    subGroups orgs=Cochlearius_cochlearius
+    type halSnake
+    otherSpecies Cochlearius_cochlearius
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Scopus_umbretta
+    longLabel Scopus_umbretta alignment
+    shortLabel Scopus_umbretta
+    visibility full
+    parent snakes off
+    subGroups orgs=Scopus_umbretta
+    type halSnake
+    otherSpecies Scopus_umbretta
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pelecanus_crispus
+    longLabel Pelecanus_crispus alignment
+    shortLabel Pelecanus_crispus
+    visibility full
+    parent snakes off
+    subGroups orgs=Pelecanus_crispus
+    type halSnake
+    otherSpecies Pelecanus_crispus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Balaeniceps_rex
+    longLabel Balaeniceps_rex alignment
+    shortLabel Balaeniceps_rex
+    visibility full
+    parent snakes off
+    subGroups orgs=Balaeniceps_rex
+    type halSnake
+    otherSpecies Balaeniceps_rex
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nipponia_nippon
+    longLabel Nipponia_nippon alignment
+    shortLabel Nipponia_nippon
+    visibility full
+    parent snakes off
+    subGroups orgs=Nipponia_nippon
+    type halSnake
+    otherSpecies Nipponia_nippon
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Mesembrinibis_cayennensis
+    longLabel Mesembrinibis_cayennensis alignment
+    shortLabel Mesembrinibis_cayennensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Mesembrinibis_cayennensis
+    type halSnake
+    otherSpecies Mesembrinibis_cayennensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ciconia_maguari
+    longLabel Ciconia_maguari alignment
+    shortLabel Ciconia_maguari
+    visibility full
+    parent snakes off
+    subGroups orgs=Ciconia_maguari
+    type halSnake
+    otherSpecies Ciconia_maguari
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aptenodytes_forsteri
+    longLabel Aptenodytes_forsteri alignment
+    shortLabel Aptenodytes_forsteri
+    visibility full
+    parent snakes off
+    subGroups orgs=Aptenodytes_forsteri
+    type halSnake
+    otherSpecies Aptenodytes_forsteri
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pygoscelis_adeliae
+    longLabel Pygoscelis_adeliae alignment
+    shortLabel Pygoscelis_adeliae
+    visibility full
+    parent snakes off
+    subGroups orgs=Pygoscelis_adeliae
+    type halSnake
+    otherSpecies Pygoscelis_adeliae
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Thalassarche_chlororhynchos
+    longLabel Thalassarche_chlororhynchos alignment
+    shortLabel Thalassarche_chlororhynchos
+    visibility full
+    parent snakes off
+    subGroups orgs=Thalassarche_chlororhynchos
+    type halSnake
+    otherSpecies Thalassarche_chlororhynchos
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Oceanites_oceanicus
+    longLabel Oceanites_oceanicus alignment
+    shortLabel Oceanites_oceanicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Oceanites_oceanicus
+    type halSnake
+    otherSpecies Oceanites_oceanicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Fregetta_grallaria
+    longLabel Fregetta_grallaria alignment
+    shortLabel Fregetta_grallaria
+    visibility full
+    parent snakes off
+    subGroups orgs=Fregetta_grallaria
+    type halSnake
+    otherSpecies Fregetta_grallaria
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Fulmarus_glacialis
+    longLabel Fulmarus_glacialis alignment
+    shortLabel Fulmarus_glacialis
+    visibility full
+    parent snakes off
+    subGroups orgs=Fulmarus_glacialis
+    type halSnake
+    otherSpecies Fulmarus_glacialis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pelecanoides_urinatrix
+    longLabel Pelecanoides_urinatrix alignment
+    shortLabel Pelecanoides_urinatrix
+    visibility full
+    parent snakes off
+    subGroups orgs=Pelecanoides_urinatrix
+    type halSnake
+    otherSpecies Pelecanoides_urinatrix
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Calonectris_borealis
+    longLabel Calonectris_borealis alignment
+    shortLabel Calonectris_borealis
+    visibility full
+    parent snakes off
+    subGroups orgs=Calonectris_borealis
+    type halSnake
+    otherSpecies Calonectris_borealis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Hydrobates_tethys
+    longLabel Hydrobates_tethys alignment
+    shortLabel Hydrobates_tethys
+    visibility full
+    parent snakes off
+    subGroups orgs=Hydrobates_tethys
+    type halSnake
+    otherSpecies Hydrobates_tethys
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Gavia_stellata
+    longLabel Gavia_stellata alignment
+    shortLabel Gavia_stellata
+    visibility full
+    parent snakes off
+    subGroups orgs=Gavia_stellata
+    type halSnake
+    otherSpecies Gavia_stellata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phaethon_lepturus
+    longLabel Phaethon_lepturus alignment
+    shortLabel Phaethon_lepturus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phaethon_lepturus
+    type halSnake
+    otherSpecies Phaethon_lepturus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eurypyga_helias
+    longLabel Eurypyga_helias alignment
+    shortLabel Eurypyga_helias
+    visibility full
+    parent snakes off
+    subGroups orgs=Eurypyga_helias
+    type halSnake
+    otherSpecies Eurypyga_helias
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhynochetos_jubatus
+    longLabel Rhynochetos_jubatus alignment
+    shortLabel Rhynochetos_jubatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhynochetos_jubatus
+    type halSnake
+    otherSpecies Rhynochetos_jubatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Opisthocomus_hoazin
+    longLabel Opisthocomus_hoazin alignment
+    shortLabel Opisthocomus_hoazin
+    visibility full
+    parent snakes off
+    subGroups orgs=Opisthocomus_hoazin
+    type halSnake
+    otherSpecies Opisthocomus_hoazin
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Charadrius_vociferus
+    longLabel Charadrius_vociferus alignment
+    shortLabel Charadrius_vociferus
+    visibility full
+    parent snakes off
+    subGroups orgs=Charadrius_vociferus
+    type halSnake
+    otherSpecies Charadrius_vociferus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Charadrius_alexandrinus
+    longLabel Charadrius_alexandrinus alignment
+    shortLabel Charadrius_alexandrinus
+    visibility full
+    parent snakes off
+    subGroups orgs=Charadrius_alexandrinus
+    type halSnake
+    otherSpecies Charadrius_alexandrinus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Ibidorhyncha_struthersii
+    longLabel Ibidorhyncha_struthersii alignment
+    shortLabel Ibidorhyncha_struthersii
+    visibility full
+    parent snakes off
+    subGroups orgs=Ibidorhyncha_struthersii
+    type halSnake
+    otherSpecies Ibidorhyncha_struthersii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Himantopus_himantopus
+    longLabel Himantopus_himantopus alignment
+    shortLabel Himantopus_himantopus
+    visibility full
+    parent snakes off
+    subGroups orgs=Himantopus_himantopus
+    type halSnake
+    otherSpecies Himantopus_himantopus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Burhinus_bistriatus
+    longLabel Burhinus_bistriatus alignment
+    shortLabel Burhinus_bistriatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Burhinus_bistriatus
+    type halSnake
+    otherSpecies Burhinus_bistriatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pluvianellus_socialis
+    longLabel Pluvianellus_socialis alignment
+    shortLabel Pluvianellus_socialis
+    visibility full
+    parent snakes off
+    subGroups orgs=Pluvianellus_socialis
+    type halSnake
+    otherSpecies Pluvianellus_socialis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chionis_minor
+    longLabel Chionis_minor alignment
+    shortLabel Chionis_minor
+    visibility full
+    parent snakes off
+    subGroups orgs=Chionis_minor
+    type halSnake
+    otherSpecies Chionis_minor
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Pedionomus_torquatus
+    longLabel Pedionomus_torquatus alignment
+    shortLabel Pedionomus_torquatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Pedionomus_torquatus
+    type halSnake
+    otherSpecies Pedionomus_torquatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Thinocorus_orbignyianus
+    longLabel Thinocorus_orbignyianus alignment
+    shortLabel Thinocorus_orbignyianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Thinocorus_orbignyianus
+    type halSnake
+    otherSpecies Thinocorus_orbignyianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Jacana_jacana
+    longLabel Jacana_jacana alignment
+    shortLabel Jacana_jacana
+    visibility full
+    parent snakes off
+    subGroups orgs=Jacana_jacana
+    type halSnake
+    otherSpecies Jacana_jacana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nycticryphes_semicollaris
+    longLabel Nycticryphes_semicollaris alignment
+    shortLabel Nycticryphes_semicollaris
+    visibility full
+    parent snakes off
+    subGroups orgs=Nycticryphes_semicollaris
+    type halSnake
+    otherSpecies Nycticryphes_semicollaris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rostratula_benghalensis
+    longLabel Rostratula_benghalensis alignment
+    shortLabel Rostratula_benghalensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Rostratula_benghalensis
+    type halSnake
+    otherSpecies Rostratula_benghalensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Limosa_lapponica
+    longLabel Limosa_lapponica alignment
+    shortLabel Limosa_lapponica
+    visibility full
+    parent snakes off
+    subGroups orgs=Limosa_lapponica
+    type halSnake
+    otherSpecies Limosa_lapponica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Calidris_pugnax
+    longLabel Calidris_pugnax alignment
+    shortLabel Calidris_pugnax
+    visibility full
+    parent snakes off
+    subGroups orgs=Calidris_pugnax
+    type halSnake
+    otherSpecies Calidris_pugnax
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Arenaria_interpres
+    longLabel Arenaria_interpres alignment
+    shortLabel Arenaria_interpres
+    visibility full
+    parent snakes off
+    subGroups orgs=Arenaria_interpres
+    type halSnake
+    otherSpecies Arenaria_interpres
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Turnix_velox
+    longLabel Turnix_velox alignment
+    shortLabel Turnix_velox
+    visibility full
+    parent snakes off
+    subGroups orgs=Turnix_velox
+    type halSnake
+    otherSpecies Turnix_velox
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dromas_ardeola
+    longLabel Dromas_ardeola alignment
+    shortLabel Dromas_ardeola
+    visibility full
+    parent snakes off
+    subGroups orgs=Dromas_ardeola
+    type halSnake
+    otherSpecies Dromas_ardeola
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhinoptilus_africanus
+    longLabel Rhinoptilus_africanus alignment
+    shortLabel Rhinoptilus_africanus
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhinoptilus_africanus
+    type halSnake
+    otherSpecies Rhinoptilus_africanus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Glareola_pratincola
+    longLabel Glareola_pratincola alignment
+    shortLabel Glareola_pratincola
+    visibility full
+    parent snakes off
+    subGroups orgs=Glareola_pratincola
+    type halSnake
+    otherSpecies Glareola_pratincola
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rynchops_niger
+    longLabel Rynchops_niger alignment
+    shortLabel Rynchops_niger
+    visibility full
+    parent snakes off
+    subGroups orgs=Rynchops_niger
+    type halSnake
+    otherSpecies Rynchops_niger
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phaetusa_simplex
+    longLabel Phaetusa_simplex alignment
+    shortLabel Phaetusa_simplex
+    visibility full
+    parent snakes off
+    subGroups orgs=Phaetusa_simplex
+    type halSnake
+    otherSpecies Phaetusa_simplex
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chroicocephalus_maculipennis
+    longLabel Chroicocephalus_maculipennis alignment
+    shortLabel Chroicocephalus_maculipennis
+    visibility full
+    parent snakes off
+    subGroups orgs=Chroicocephalus_maculipennis
+    type halSnake
+    otherSpecies Chroicocephalus_maculipennis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Larus_smithsonianus
+    longLabel Larus_smithsonianus alignment
+    shortLabel Larus_smithsonianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Larus_smithsonianus
+    type halSnake
+    otherSpecies Larus_smithsonianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rissa_tridactyla
+    longLabel Rissa_tridactyla alignment
+    shortLabel Rissa_tridactyla
+    visibility full
+    parent snakes off
+    subGroups orgs=Rissa_tridactyla
+    type halSnake
+    otherSpecies Rissa_tridactyla
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Stercorarius_parasiticus
+    longLabel Stercorarius_parasiticus alignment
+    shortLabel Stercorarius_parasiticus
+    visibility full
+    parent snakes off
+    subGroups orgs=Stercorarius_parasiticus
+    type halSnake
+    otherSpecies Stercorarius_parasiticus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cepphus_grylle
+    longLabel Cepphus_grylle alignment
+    shortLabel Cepphus_grylle
+    visibility full
+    parent snakes off
+    subGroups orgs=Cepphus_grylle
+    type halSnake
+    otherSpecies Cepphus_grylle
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Alca_torda
+    longLabel Alca_torda alignment
+    shortLabel Alca_torda
+    visibility full
+    parent snakes off
+    subGroups orgs=Alca_torda
+    type halSnake
+    otherSpecies Alca_torda
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Uria_lomvia
+    longLabel Uria_lomvia alignment
+    shortLabel Uria_lomvia
+    visibility full
+    parent snakes off
+    subGroups orgs=Uria_lomvia
+    type halSnake
+    otherSpecies Uria_lomvia
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Uria_aalge
+    longLabel Uria_aalge alignment
+    shortLabel Uria_aalge
+    visibility full
+    parent snakes off
+    subGroups orgs=Uria_aalge
+    type halSnake
+    otherSpecies Uria_aalge
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Psophia_crepitans
+    longLabel Psophia_crepitans alignment
+    shortLabel Psophia_crepitans
+    visibility full
+    parent snakes off
+    subGroups orgs=Psophia_crepitans
+    type halSnake
+    otherSpecies Psophia_crepitans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Grus_americana
+    longLabel Grus_americana alignment
+    shortLabel Grus_americana
+    visibility full
+    parent snakes off
+    subGroups orgs=Grus_americana
+    type halSnake
+    otherSpecies Grus_americana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Balearica_regulorum
+    longLabel Balearica_regulorum alignment
+    shortLabel Balearica_regulorum
+    visibility full
+    parent snakes off
+    subGroups orgs=Balearica_regulorum
+    type halSnake
+    otherSpecies Balearica_regulorum
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Aramus_guarauna
+    longLabel Aramus_guarauna alignment
+    shortLabel Aramus_guarauna
+    visibility full
+    parent snakes off
+    subGroups orgs=Aramus_guarauna
+    type halSnake
+    otherSpecies Aramus_guarauna
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Heliornis_fulica
+    longLabel Heliornis_fulica alignment
+    shortLabel Heliornis_fulica
+    visibility full
+    parent snakes off
+    subGroups orgs=Heliornis_fulica
+    type halSnake
+    otherSpecies Heliornis_fulica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Zapornia_atra
+    longLabel Zapornia_atra alignment
+    shortLabel Zapornia_atra
+    visibility full
+    parent snakes off
+    subGroups orgs=Zapornia_atra
+    type halSnake
+    otherSpecies Zapornia_atra
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Atlantisia_rogersi
+    longLabel Atlantisia_rogersi alignment
+    shortLabel Atlantisia_rogersi
+    visibility full
+    parent snakes off
+    subGroups orgs=Atlantisia_rogersi
+    type halSnake
+    otherSpecies Atlantisia_rogersi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Chauna_torquata
+    longLabel Chauna_torquata alignment
+    shortLabel Chauna_torquata
+    visibility full
+    parent snakes off
+    subGroups orgs=Chauna_torquata
+    type halSnake
+    otherSpecies Chauna_torquata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anser_cygnoid
+    longLabel Anser_cygnoid alignment
+    shortLabel Anser_cygnoid
+    visibility full
+    parent snakes off
+    subGroups orgs=Anser_cygnoid
+    type halSnake
+    otherSpecies Anser_cygnoid
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Cairina_moschata
+    longLabel Cairina_moschata alignment
+    shortLabel Cairina_moschata
+    visibility full
+    parent snakes off
+    subGroups orgs=Cairina_moschata
+    type halSnake
+    otherSpecies Cairina_moschata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Asarcornis_scutulata
+    longLabel Asarcornis_scutulata alignment
+    shortLabel Asarcornis_scutulata
+    visibility full
+    parent snakes off
+    subGroups orgs=Asarcornis_scutulata
+    type halSnake
+    otherSpecies Asarcornis_scutulata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anas_zonorhyncha
+    longLabel Anas_zonorhyncha alignment
+    shortLabel Anas_zonorhyncha
+    visibility full
+    parent snakes off
+    subGroups orgs=Anas_zonorhyncha
+    type halSnake
+    otherSpecies Anas_zonorhyncha
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anas_platyrhynchos
+    longLabel Anas_platyrhynchos alignment
+    shortLabel Anas_platyrhynchos
+    visibility full
+    parent snakes off
+    subGroups orgs=Anas_platyrhynchos
+    type halSnake
+    otherSpecies Anas_platyrhynchos
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Anseranas_semipalmata
+    longLabel Anseranas_semipalmata alignment
+    shortLabel Anseranas_semipalmata
+    visibility full
+    parent snakes off
+    subGroups orgs=Anseranas_semipalmata
+    type halSnake
+    otherSpecies Anseranas_semipalmata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Alectura_lathami
+    longLabel Alectura_lathami alignment
+    shortLabel Alectura_lathami
+    visibility full
+    parent snakes off
+    subGroups orgs=Alectura_lathami
+    type halSnake
+    otherSpecies Alectura_lathami
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Penelope_pileata
+    longLabel Penelope_pileata alignment
+    shortLabel Penelope_pileata
+    visibility full
+    parent snakes off
+    subGroups orgs=Penelope_pileata
+    type halSnake
+    otherSpecies Penelope_pileata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Numida_meleagris
+    longLabel Numida_meleagris alignment
+    shortLabel Numida_meleagris
+    visibility full
+    parent snakes off
+    subGroups orgs=Numida_meleagris
+    type halSnake
+    otherSpecies Numida_meleagris
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Odontophorus_gujanensis
+    longLabel Odontophorus_gujanensis alignment
+    shortLabel Odontophorus_gujanensis
+    visibility full
+    parent snakes off
+    subGroups orgs=Odontophorus_gujanensis
+    type halSnake
+    otherSpecies Odontophorus_gujanensis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Callipepla_squamata
+    longLabel Callipepla_squamata alignment
+    shortLabel Callipepla_squamata
+    visibility full
+    parent snakes off
+    subGroups orgs=Callipepla_squamata
+    type halSnake
+    otherSpecies Callipepla_squamata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Colinus_virginianus
+    longLabel Colinus_virginianus alignment
+    shortLabel Colinus_virginianus
+    visibility full
+    parent snakes off
+    subGroups orgs=Colinus_virginianus
+    type halSnake
+    otherSpecies Colinus_virginianus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Gallus_gallus
+    longLabel Gallus_gallus alignment
+    shortLabel Gallus_gallus
+    visibility full
+    parent snakes off
+    subGroups orgs=Gallus_gallus
+    type halSnake
+    otherSpecies Gallus_gallus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Coturnix_japonica
+    longLabel Coturnix_japonica alignment
+    shortLabel Coturnix_japonica
+    visibility full
+    parent snakes off
+    subGroups orgs=Coturnix_japonica
+    type halSnake
+    otherSpecies Coturnix_japonica
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Phasianus_colchicus
+    longLabel Phasianus_colchicus alignment
+    shortLabel Phasianus_colchicus
+    visibility full
+    parent snakes off
+    subGroups orgs=Phasianus_colchicus
+    type halSnake
+    otherSpecies Phasianus_colchicus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Meleagris_gallopavo
+    longLabel Meleagris_gallopavo alignment
+    shortLabel Meleagris_gallopavo
+    visibility full
+    parent snakes off
+    subGroups orgs=Meleagris_gallopavo
+    type halSnake
+    otherSpecies Meleagris_gallopavo
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tympanuchus_cupido
+    longLabel Tympanuchus_cupido alignment
+    shortLabel Tympanuchus_cupido
+    visibility full
+    parent snakes off
+    subGroups orgs=Tympanuchus_cupido
+    type halSnake
+    otherSpecies Tympanuchus_cupido
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Dromaius_novaehollandiae
+    longLabel Dromaius_novaehollandiae alignment
+    shortLabel Dromaius_novaehollandiae
+    visibility full
+    parent snakes off
+    subGroups orgs=Dromaius_novaehollandiae
+    type halSnake
+    otherSpecies Dromaius_novaehollandiae
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Casuarius_casuarius
+    longLabel Casuarius_casuarius alignment
+    shortLabel Casuarius_casuarius
+    visibility full
+    parent snakes off
+    subGroups orgs=Casuarius_casuarius
+    type halSnake
+    otherSpecies Casuarius_casuarius
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Apteryx_australis
+    longLabel Apteryx_australis alignment
+    shortLabel Apteryx_australis
+    visibility full
+    parent snakes off
+    subGroups orgs=Apteryx_australis
+    type halSnake
+    otherSpecies Apteryx_australis
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Apteryx_rowi
+    longLabel Apteryx_rowi alignment
+    shortLabel Apteryx_rowi
+    visibility full
+    parent snakes off
+    subGroups orgs=Apteryx_rowi
+    type halSnake
+    otherSpecies Apteryx_rowi
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Apteryx_haastii
+    longLabel Apteryx_haastii alignment
+    shortLabel Apteryx_haastii
+    visibility full
+    parent snakes off
+    subGroups orgs=Apteryx_haastii
+    type halSnake
+    otherSpecies Apteryx_haastii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Apteryx_owenii
+    longLabel Apteryx_owenii alignment
+    shortLabel Apteryx_owenii
+    visibility full
+    parent snakes off
+    subGroups orgs=Apteryx_owenii
+    type halSnake
+    otherSpecies Apteryx_owenii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nothocercus_nigrocapillus
+    longLabel Nothocercus_nigrocapillus alignment
+    shortLabel Nothocercus_nigrocapillus
+    visibility full
+    parent snakes off
+    subGroups orgs=Nothocercus_nigrocapillus
+    type halSnake
+    otherSpecies Nothocercus_nigrocapillus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nothocercus_julius
+    longLabel Nothocercus_julius alignment
+    shortLabel Nothocercus_julius
+    visibility full
+    parent snakes off
+    subGroups orgs=Nothocercus_julius
+    type halSnake
+    otherSpecies Nothocercus_julius
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Tinamus_guttatus
+    longLabel Tinamus_guttatus alignment
+    shortLabel Tinamus_guttatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Tinamus_guttatus
+    type halSnake
+    otherSpecies Tinamus_guttatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Crypturellus_soui
+    longLabel Crypturellus_soui alignment
+    shortLabel Crypturellus_soui
+    visibility full
+    parent snakes off
+    subGroups orgs=Crypturellus_soui
+    type halSnake
+    otherSpecies Crypturellus_soui
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Crypturellus_cinnamomeus
+    longLabel Crypturellus_cinnamomeus alignment
+    shortLabel Crypturellus_cinnamomeus
+    visibility full
+    parent snakes off
+    subGroups orgs=Crypturellus_cinnamomeus
+    type halSnake
+    otherSpecies Crypturellus_cinnamomeus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Crypturellus_undulatus
+    longLabel Crypturellus_undulatus alignment
+    shortLabel Crypturellus_undulatus
+    visibility full
+    parent snakes off
+    subGroups orgs=Crypturellus_undulatus
+    type halSnake
+    otherSpecies Crypturellus_undulatus
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nothoprocta_perdicaria
+    longLabel Nothoprocta_perdicaria alignment
+    shortLabel Nothoprocta_perdicaria
+    visibility full
+    parent snakes off
+    subGroups orgs=Nothoprocta_perdicaria
+    type halSnake
+    otherSpecies Nothoprocta_perdicaria
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nothoprocta_ornata
+    longLabel Nothoprocta_ornata alignment
+    shortLabel Nothoprocta_ornata
+    visibility full
+    parent snakes off
+    subGroups orgs=Nothoprocta_ornata
+    type halSnake
+    otherSpecies Nothoprocta_ornata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Nothoprocta_pentlandii
+    longLabel Nothoprocta_pentlandii alignment
+    shortLabel Nothoprocta_pentlandii
+    visibility full
+    parent snakes off
+    subGroups orgs=Nothoprocta_pentlandii
+    type halSnake
+    otherSpecies Nothoprocta_pentlandii
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Eudromia_elegans
+    longLabel Eudromia_elegans alignment
+    shortLabel Eudromia_elegans
+    visibility full
+    parent snakes off
+    subGroups orgs=Eudromia_elegans
+    type halSnake
+    otherSpecies Eudromia_elegans
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhea_americana
+    longLabel Rhea_americana alignment
+    shortLabel Rhea_americana
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhea_americana
+    type halSnake
+    otherSpecies Rhea_americana
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Rhea_pennata
+    longLabel Rhea_pennata alignment
+    shortLabel Rhea_pennata
+    visibility full
+    parent snakes off
+    subGroups orgs=Rhea_pennata
+    type halSnake
+    otherSpecies Rhea_pennata
+    bigDataUrl ../../363-avian-2020.hal
+
+
+    track snake_Struthio_camelus
+    longLabel Struthio_camelus alignment
+    shortLabel Struthio_camelus
+    visibility full
+    parent snakes off
+    subGroups orgs=Struthio_camelus
+    type halSnake
+    otherSpecies Struthio_camelus
+    bigDataUrl ../../363-avian-2020.hal
+

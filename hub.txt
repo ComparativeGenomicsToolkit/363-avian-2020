@@ -1,0 +1,6 @@
+hub 363-avian-2020
+shortLabel Bird Alignment (363 species)
+longLabel Bird Alignment (363 species)
+genomesFile genomes.txt
+email markd@ucsc.edu
+descriptionUrl documentation/b10kHubDescription.html
